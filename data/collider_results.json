@@ -1,0 +1,7048 @@
+{
+  "audit": {
+    "methodology": "Evidence Collider v1 (GSP-Hardened)",
+    "timestamp": "2026-04-13T01:16:14.644936",
+    "n_locations": 1005,
+    "sources": [
+      "AACT-Subset-C",
+      "IHME-SDI-2023"
+    ]
+  },
+  "deserts": [
+    {
+      "location": "Southeast Asia, East Asia, and Oceania",
+      "sdi": 0.705636534,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East Asia",
+      "sdi": 0.730593973,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Democratic People's Republic of Korea",
+      "sdi": 0.57705994,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southeast Asia",
+      "sdi": 0.661279472,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lao People's Democratic Republic",
+      "sdi": 0.515008269,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Myanmar",
+      "sdi": 0.532025372,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Viet Nam",
+      "sdi": 0.64302812,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oceania",
+      "sdi": 0.482001015,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Marshall Islands",
+      "sdi": 0.605458023,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tonga",
+      "sdi": 0.63599479,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Europe, Eastern Europe, and Central Asia",
+      "sdi": 0.777259843,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Asia",
+      "sdi": 0.669719137,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Europe",
+      "sdi": 0.80777476,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eastern Europe",
+      "sdi": 0.81466672,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "High-income",
+      "sdi": 0.866517923,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "High-income Asia Pacific",
+      "sdi": 0.881924106,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Korea",
+      "sdi": 0.891662727,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Australasia",
+      "sdi": 0.855660217,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Western Europe",
+      "sdi": 0.86466368,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southern Latin America",
+      "sdi": 0.770246591,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "High-income North America",
+      "sdi": 0.877595418,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Latin America and Caribbean",
+      "sdi": 0.674426495,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Caribbean",
+      "sdi": 0.663523185,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Andean Latin America",
+      "sdi": 0.678674877,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Latin America",
+      "sdi": 0.667297615,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tropical Latin America",
+      "sdi": 0.683622388,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Africa and Middle East",
+      "sdi": 0.684169936,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Africa and Middle East",
+      "sdi": 0.684169936,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Palestine",
+      "sdi": 0.6379798,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Asia",
+      "sdi": 0.585466318,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Asia",
+      "sdi": 0.585466318,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sub-Saharan Africa",
+      "sdi": 0.474077136,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Sub-Saharan Africa",
+      "sdi": 0.478716031,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eastern Sub-Saharan Africa",
+      "sdi": 0.431153357,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southern Sub-Saharan Africa",
+      "sdi": 0.665936505,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Western Sub-Saharan Africa",
+      "sdi": 0.45963123,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "C\u00f4te d'Ivoire",
+      "sdi": 0.451524015,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sao Tome and Principe",
+      "sdi": 0.522633002,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East Asia & Pacific - WB",
+      "sdi": 0.722825009,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Europe & Central Asia - WB",
+      "sdi": 0.817969252,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Latin America & Caribbean - WB",
+      "sdi": 0.684188647,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sub-Saharan Africa - WB",
+      "sdi": 0.474880161,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Middle East & North Africa - WB",
+      "sdi": 0.700290783,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Asia - WB",
+      "sdi": 0.581401411,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eastern Africa",
+      "sdi": 0.438784933,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Melanesia",
+      "sdi": 0.462674933,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Northern Africa",
+      "sdi": 0.665217763,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southern Africa",
+      "sdi": 0.554218092,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Western Africa",
+      "sdi": 0.496932547,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cook Islands",
+      "sdi": 0.777404869,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nauru",
+      "sdi": 0.626371926,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Palau",
+      "sdi": 0.75589719,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tokelau",
+      "sdi": 0.749948959,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tuvalu",
+      "sdi": 0.611233842,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Scotland",
+      "sdi": 0.877898218,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "World Bank Regions",
+      "sdi": 0.675200552,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "WHO region",
+      "sdi": 0.674402796,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eastern Cape",
+      "sdi": 0.676335966,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Free State",
+      "sdi": 0.70635202,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gauteng",
+      "sdi": 0.726552305,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "KwaZulu-Natal",
+      "sdi": 0.692964236,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Limpopo",
+      "sdi": 0.667376074,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mpumalanga",
+      "sdi": 0.680918568,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North-West",
+      "sdi": 0.689270035,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Northern Cape",
+      "sdi": 0.690696705,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Western Cape",
+      "sdi": 0.737462683,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Anhui",
+      "sdi": 0.697175963,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Beijing",
+      "sdi": 0.837183864,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chongqing",
+      "sdi": 0.699856541,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Fujian",
+      "sdi": 0.72517775,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gansu",
+      "sdi": 0.66488574,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Guangdong",
+      "sdi": 0.769608418,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Guangxi",
+      "sdi": 0.696584172,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Guizhou",
+      "sdi": 0.670410102,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hainan",
+      "sdi": 0.736469746,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hebei",
+      "sdi": 0.713113877,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Heilongjiang",
+      "sdi": 0.728078623,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Henan",
+      "sdi": 0.714975795,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hubei",
+      "sdi": 0.728211462,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hunan",
+      "sdi": 0.718801759,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jiangsu",
+      "sdi": 0.756455109,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jiangxi",
+      "sdi": 0.692509446,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jilin",
+      "sdi": 0.720738195,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Liaoning",
+      "sdi": 0.761951169,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ningxia",
+      "sdi": 0.6903124,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Qinghai",
+      "sdi": 0.66439692,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Shaanxi",
+      "sdi": 0.718649701,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Shandong",
+      "sdi": 0.72424623,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Shanghai",
+      "sdi": 0.805724878,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Shanxi",
+      "sdi": 0.740327336,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sichuan",
+      "sdi": 0.707058096,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tianjin",
+      "sdi": 0.807918436,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tibet",
+      "sdi": 0.497315869,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Xinjiang",
+      "sdi": 0.726998546,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yunnan",
+      "sdi": 0.65993846,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zhejiang",
+      "sdi": 0.745709516,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Alabama",
+      "sdi": 0.844339824,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Alaska",
+      "sdi": 0.851874495,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Arizona",
+      "sdi": 0.863261837,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Arkansas",
+      "sdi": 0.832608066,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "California",
+      "sdi": 0.881122578,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Colorado",
+      "sdi": 0.892103874,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Connecticut",
+      "sdi": 0.907114345,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Delaware",
+      "sdi": 0.865308858,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "District of Columbia",
+      "sdi": 0.917229534,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Florida",
+      "sdi": 0.876349821,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hawaii",
+      "sdi": 0.872741681,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Idaho",
+      "sdi": 0.856480651,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Illinois",
+      "sdi": 0.890539275,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Iowa",
+      "sdi": 0.873743322,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kansas",
+      "sdi": 0.867306618,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kentucky",
+      "sdi": 0.837629253,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Louisiana",
+      "sdi": 0.837083492,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maine",
+      "sdi": 0.875998053,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maryland",
+      "sdi": 0.894215798,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Massachusetts",
+      "sdi": 0.913704181,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Michigan",
+      "sdi": 0.880325241,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Minnesota",
+      "sdi": 0.896480571,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mississippi",
+      "sdi": 0.825785613,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Missouri",
+      "sdi": 0.863179711,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Montana",
+      "sdi": 0.873323169,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nebraska",
+      "sdi": 0.87368448,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nevada",
+      "sdi": 0.859826498,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "New Hampshire",
+      "sdi": 0.903724456,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "New York",
+      "sdi": 0.892156759,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Carolina",
+      "sdi": 0.864015041,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Dakota",
+      "sdi": 0.878833711,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ohio",
+      "sdi": 0.864956686,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oklahoma",
+      "sdi": 0.841704993,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oregon",
+      "sdi": 0.884343026,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Pennsylvania",
+      "sdi": 0.886792936,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rhode Island",
+      "sdi": 0.891270654,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Carolina",
+      "sdi": 0.858284399,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Dakota",
+      "sdi": 0.861548598,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tennessee",
+      "sdi": 0.851763321,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Texas",
+      "sdi": 0.855533663,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Utah",
+      "sdi": 0.872896908,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Vermont",
+      "sdi": 0.896326971,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Virginia",
+      "sdi": 0.89051367,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Washington",
+      "sdi": 0.889571085,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Virginia",
+      "sdi": 0.834336955,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Wisconsin",
+      "sdi": 0.882920155,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Wyoming",
+      "sdi": 0.861482996,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North East England",
+      "sdi": 0.859003183,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North West England",
+      "sdi": 0.871461123,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yorkshire and the Humber",
+      "sdi": 0.865834239,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East Midlands",
+      "sdi": 0.869658282,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Midlands",
+      "sdi": 0.864329174,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East of England",
+      "sdi": 0.878433588,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Greater London",
+      "sdi": 0.917238504,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South East England",
+      "sdi": 0.892808977,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South West England",
+      "sdi": 0.884924119,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Wales",
+      "sdi": 0.853289572,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Aguascalientes",
+      "sdi": 0.694016804,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Baja California",
+      "sdi": 0.714888756,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Baja California Sur",
+      "sdi": 0.710006201,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Campeche",
+      "sdi": 0.683664114,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Coahuila",
+      "sdi": 0.695183502,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Colima",
+      "sdi": 0.701087291,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chiapas",
+      "sdi": 0.60987303,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chihuahua",
+      "sdi": 0.691826149,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Durango",
+      "sdi": 0.679637958,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Guanajuato",
+      "sdi": 0.667335086,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Guerrero",
+      "sdi": 0.641736651,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hidalgo",
+      "sdi": 0.678264241,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jalisco",
+      "sdi": 0.700195761,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "M\u00e9xico",
+      "sdi": 0.716008602,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Michoac\u00e1n de Ocampo",
+      "sdi": 0.657874761,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Morelos",
+      "sdi": 0.699432782,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nayarit",
+      "sdi": 0.689458898,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nuevo Le\u00f3n",
+      "sdi": 0.730269932,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oaxaca",
+      "sdi": 0.637208179,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Puebla",
+      "sdi": 0.658876967,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Quer\u00e9taro",
+      "sdi": 0.70625281,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Quintana Roo",
+      "sdi": 0.704483182,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "San Luis Potos\u00ed",
+      "sdi": 0.687003626,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sinaloa",
+      "sdi": 0.70977613,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sonora",
+      "sdi": 0.72001958,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tabasco",
+      "sdi": 0.6779858,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tamaulipas",
+      "sdi": 0.703253991,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tlaxcala",
+      "sdi": 0.687930098,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Veracruz de Ignacio de la Llave",
+      "sdi": 0.667821071,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yucat\u00e1n",
+      "sdi": 0.693972363,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zacatecas",
+      "sdi": 0.678460272,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Aceh",
+      "sdi": 0.686226746,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Sumatra",
+      "sdi": 0.681769695,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Sumatra",
+      "sdi": 0.688125584,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Riau",
+      "sdi": 0.702580304,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jambi",
+      "sdi": 0.660802626,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Sumatra",
+      "sdi": 0.659183601,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bengkulu",
+      "sdi": 0.644424076,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lampung",
+      "sdi": 0.639365297,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bangka-Belitung Islands",
+      "sdi": 0.66104461,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Riau Islands",
+      "sdi": 0.749059006,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Kalimantan",
+      "sdi": 0.707688134,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jakarta",
+      "sdi": 0.774771112,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Java",
+      "sdi": 0.654685549,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Java",
+      "sdi": 0.638043631,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yogyakarta",
+      "sdi": 0.707900601,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East Java",
+      "sdi": 0.657697112,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Banten",
+      "sdi": 0.672683555,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bali",
+      "sdi": 0.675263632,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Nusa Tenggara",
+      "sdi": 0.621239322,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East Nusa Tenggara",
+      "sdi": 0.61014039,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Kalimantan",
+      "sdi": 0.62011212,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Kalimantan",
+      "sdi": 0.656840087,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Kalimantan",
+      "sdi": 0.653011478,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East Kalimantan",
+      "sdi": 0.728760679,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Sulawesi",
+      "sdi": 0.682862996,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Sulawesi",
+      "sdi": 0.654844066,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Sulawesi",
+      "sdi": 0.65632251,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southeast Sulawesi",
+      "sdi": 0.641306275,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gorontalo",
+      "sdi": 0.631304482,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Sulawesi",
+      "sdi": 0.632559299,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maluku",
+      "sdi": 0.654577542,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Maluku",
+      "sdi": 0.638926437,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Papua with Southwest Papua",
+      "sdi": 0.682399455,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Papua with Central, South, and Highland Papua",
+      "sdi": 0.654880668,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "European Union",
+      "sdi": 0.850422875,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "League of Arab States",
+      "sdi": 0.67084919,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "England",
+      "sdi": 0.882512409,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Acre",
+      "sdi": 0.60879176,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Alagoas",
+      "sdi": 0.609697482,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Amazonas",
+      "sdi": 0.67223216,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Amap\u00e1",
+      "sdi": 0.643063404,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bahia",
+      "sdi": 0.632931318,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cear\u00e1",
+      "sdi": 0.639388286,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Distrito Federal",
+      "sdi": 0.76346717,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Esp\u00edrito Santo",
+      "sdi": 0.67890683,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Goi\u00e1s",
+      "sdi": 0.683191345,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maranh\u00e3o",
+      "sdi": 0.566614087,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Minas Gerais",
+      "sdi": 0.684899314,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mato Grosso do Sul",
+      "sdi": 0.67988794,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mato Grosso",
+      "sdi": 0.68020303,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Par\u00e1",
+      "sdi": 0.630906747,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Para\u00edba",
+      "sdi": 0.62798254,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Paran\u00e1",
+      "sdi": 0.700054033,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Pernambuco",
+      "sdi": 0.637720767,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Piaui",
+      "sdi": 0.615131684,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rio de Janeiro",
+      "sdi": 0.734855788,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rio Grande do Norte",
+      "sdi": 0.643104338,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rond\u00f4nia",
+      "sdi": 0.645691089,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Roraima",
+      "sdi": 0.646899302,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rio Grande do Sul",
+      "sdi": 0.714839391,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Santa Catarina",
+      "sdi": 0.721786466,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sergipe",
+      "sdi": 0.655291628,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "S\u00e3o Paulo",
+      "sdi": 0.734765464,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tocantins",
+      "sdi": 0.647066299,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Andhra Pradesh",
+      "sdi": 0.581305089,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Arunachal Pradesh",
+      "sdi": 0.595186131,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Assam",
+      "sdi": 0.614781402,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bihar",
+      "sdi": 0.547180605,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chhattisgarh",
+      "sdi": 0.576498414,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Delhi",
+      "sdi": 0.711697909,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Goa",
+      "sdi": 0.691399476,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gujarat",
+      "sdi": 0.626746124,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Haryana",
+      "sdi": 0.637062068,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Himachal Pradesh",
+      "sdi": 0.650861413,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jammu & Kashmir and Ladakh",
+      "sdi": 0.642303101,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jharkhand",
+      "sdi": 0.577946231,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Karnataka",
+      "sdi": 0.613794161,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kerala",
+      "sdi": 0.681110073,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Madhya Pradesh",
+      "sdi": 0.571882178,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maharashtra",
+      "sdi": 0.651509955,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Manipur",
+      "sdi": 0.646033311,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Meghalaya",
+      "sdi": 0.610081082,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mizoram",
+      "sdi": 0.64871883,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nagaland",
+      "sdi": 0.662142469,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Odisha",
+      "sdi": 0.588393442,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Punjab",
+      "sdi": 0.653099152,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rajasthan",
+      "sdi": 0.568795004,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sikkim",
+      "sdi": 0.61282116,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tamil Nadu",
+      "sdi": 0.650549392,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Telangana",
+      "sdi": 0.595908249,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tripura",
+      "sdi": 0.606788411,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Uttar Pradesh",
+      "sdi": 0.595043449,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Uttarakhand",
+      "sdi": 0.659789633,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Bengal",
+      "sdi": 0.600953665,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oslo",
+      "sdi": 0.946605904,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rogaland",
+      "sdi": 0.916316071,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "M\u00f8re og Romsdal",
+      "sdi": 0.909903978,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nordland",
+      "sdi": 0.896767281,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Adamawa",
+      "sdi": 0.474126294,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Akwa Ibom",
+      "sdi": 0.597773796,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Anambra",
+      "sdi": 0.648272549,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bauchi",
+      "sdi": 0.303513626,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bayelsa",
+      "sdi": 0.577181397,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Benue",
+      "sdi": 0.504211213,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Borno",
+      "sdi": 0.416297859,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cross River",
+      "sdi": 0.578716809,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Delta",
+      "sdi": 0.613535997,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ebonyi",
+      "sdi": 0.559977009,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ekiti",
+      "sdi": 0.607272901,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Enugu",
+      "sdi": 0.625764853,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "FCT (Abuja)",
+      "sdi": 0.629483235,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gombe",
+      "sdi": 0.391553351,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jigawa",
+      "sdi": 0.224334999,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kaduna",
+      "sdi": 0.450863306,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kano",
+      "sdi": 0.436475482,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Katsina",
+      "sdi": 0.308656518,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kebbi",
+      "sdi": 0.300398097,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kogi",
+      "sdi": 0.56443316,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kwara",
+      "sdi": 0.538717878,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lagos",
+      "sdi": 0.695749782,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nasarawa",
+      "sdi": 0.512144394,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ogun",
+      "sdi": 0.590528092,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ondo",
+      "sdi": 0.594453714,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Osun",
+      "sdi": 0.619712487,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oyo",
+      "sdi": 0.593678555,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Plateau",
+      "sdi": 0.53703452,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rivers",
+      "sdi": 0.651796122,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sokoto",
+      "sdi": 0.304426817,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Taraba",
+      "sdi": 0.441375487,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yobe",
+      "sdi": 0.332567809,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zamfara",
+      "sdi": 0.322988735,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hokkaid\u014d",
+      "sdi": 0.864600434,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Aomori",
+      "sdi": 0.845552301,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Iwate",
+      "sdi": 0.847002027,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Miyagi",
+      "sdi": 0.868067778,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Akita",
+      "sdi": 0.848987446,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yamagata",
+      "sdi": 0.851023855,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Fukushima",
+      "sdi": 0.849681616,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ibaraki",
+      "sdi": 0.863697337,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tochigi",
+      "sdi": 0.862873605,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gunma",
+      "sdi": 0.864108686,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Saitama",
+      "sdi": 0.880332874,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chiba",
+      "sdi": 0.882763984,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "T\u014dky\u014d",
+      "sdi": 0.905914783,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kanagawa",
+      "sdi": 0.894881117,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Niigata",
+      "sdi": 0.85394215,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Toyama",
+      "sdi": 0.866194826,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ishikawa",
+      "sdi": 0.86582287,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Fukui",
+      "sdi": 0.8596265,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yamanashi",
+      "sdi": 0.865146114,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nagano",
+      "sdi": 0.865765173,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gifu",
+      "sdi": 0.864273701,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Shizuoka",
+      "sdi": 0.866127649,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Aichi",
+      "sdi": 0.877865621,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mie",
+      "sdi": 0.860849002,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Shiga",
+      "sdi": 0.876138147,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ky\u014dto",
+      "sdi": 0.884281061,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "\u014csaka",
+      "sdi": 0.88007862,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hy\u014dgo",
+      "sdi": 0.882012081,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nara",
+      "sdi": 0.88079111,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Wakayama",
+      "sdi": 0.855182531,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tottori",
+      "sdi": 0.853866625,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Shimane",
+      "sdi": 0.850878592,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Okayama",
+      "sdi": 0.868053062,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hiroshima",
+      "sdi": 0.874983791,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yamaguchi",
+      "sdi": 0.859559959,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tokushima",
+      "sdi": 0.85905944,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kagawa",
+      "sdi": 0.865858371,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ehime",
+      "sdi": 0.859318331,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "K\u014dchi",
+      "sdi": 0.853816125,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Fukuoka",
+      "sdi": 0.875065435,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Saga",
+      "sdi": 0.854568127,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nagasaki",
+      "sdi": 0.853637504,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kumamoto",
+      "sdi": 0.858144708,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "\u014cita",
+      "sdi": 0.858177677,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Miyazaki",
+      "sdi": 0.844820796,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kagoshima",
+      "sdi": 0.853212329,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Okinawa",
+      "sdi": 0.854457395,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Piemonte",
+      "sdi": 0.836496619,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Valle d'Aosta",
+      "sdi": 0.83228928,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Liguria",
+      "sdi": 0.847712707,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lombardia",
+      "sdi": 0.856135298,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Provincia autonoma di Bolzano",
+      "sdi": 0.859324175,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Provincia autonoma di Trento",
+      "sdi": 0.853709319,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Veneto",
+      "sdi": 0.841368482,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Friuli-Venezia Giulia",
+      "sdi": 0.849789596,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Emilia-Romagna",
+      "sdi": 0.850174684,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Toscana",
+      "sdi": 0.841431561,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Umbria",
+      "sdi": 0.833626306,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Marche",
+      "sdi": 0.833125768,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lazio",
+      "sdi": 0.853782375,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Abruzzo",
+      "sdi": 0.837641265,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Molise",
+      "sdi": 0.816863416,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Campania",
+      "sdi": 0.803934945,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Puglia",
+      "sdi": 0.800149677,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Basilicata",
+      "sdi": 0.813988401,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Calabria",
+      "sdi": 0.807737453,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sicilia",
+      "sdi": 0.796989363,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sardegna",
+      "sdi": 0.806875449,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Baringo",
+      "sdi": 0.474080453,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bomet",
+      "sdi": 0.515648913,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bungoma",
+      "sdi": 0.51411166,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Busia",
+      "sdi": 0.475348478,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Elgeyo-Marakwet",
+      "sdi": 0.506769798,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Embu",
+      "sdi": 0.553785052,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Garissa",
+      "sdi": 0.308399456,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Homa Bay",
+      "sdi": 0.504411168,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Isiolo",
+      "sdi": 0.446267626,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kajiado",
+      "sdi": 0.57497088,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kakamega",
+      "sdi": 0.509929957,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kericho",
+      "sdi": 0.542376317,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kiambu",
+      "sdi": 0.643798896,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kilifi",
+      "sdi": 0.496430125,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kirinyaga",
+      "sdi": 0.55843923,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kisii",
+      "sdi": 0.5562071,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kisumu",
+      "sdi": 0.589417597,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kitui",
+      "sdi": 0.501428503,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kwale",
+      "sdi": 0.474370451,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Laikipia",
+      "sdi": 0.556658089,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lamu",
+      "sdi": 0.495207241,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Machakos",
+      "sdi": 0.584624832,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Makueni",
+      "sdi": 0.530823755,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mandera",
+      "sdi": 0.229070388,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Marsabit",
+      "sdi": 0.327077733,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Meru",
+      "sdi": 0.530093587,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Migori",
+      "sdi": 0.483299085,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mombasa",
+      "sdi": 0.648750076,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Murang'a",
+      "sdi": 0.560571533,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nairobi",
+      "sdi": 0.704669536,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nakuru",
+      "sdi": 0.588647929,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nandi",
+      "sdi": 0.5209295,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Narok",
+      "sdi": 0.437767397,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nyamira",
+      "sdi": 0.540370915,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nyandarua",
+      "sdi": 0.555130115,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nyeri",
+      "sdi": 0.613318422,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Samburu",
+      "sdi": 0.338529116,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Siaya",
+      "sdi": 0.492336974,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Taita Taveta",
+      "sdi": 0.554253979,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tana River",
+      "sdi": 0.376219158,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tharaka Nithi",
+      "sdi": 0.524415334,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Trans Nzoia",
+      "sdi": 0.544037283,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Turkana",
+      "sdi": 0.323083181,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Uasin Gishu",
+      "sdi": 0.589995485,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Vihiga",
+      "sdi": 0.508468789,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Wajir",
+      "sdi": 0.238462779,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Pokot",
+      "sdi": 0.373347453,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Andhra Pradesh, Urban",
+      "sdi": 0.669952843,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Arunachal Pradesh, Urban",
+      "sdi": 0.69549508,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Assam, Urban",
+      "sdi": 0.71080487,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bihar, Urban",
+      "sdi": 0.675853367,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chhattisgarh, Urban",
+      "sdi": 0.703941541,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Delhi, Urban",
+      "sdi": 0.712423487,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Goa, Urban",
+      "sdi": 0.705863435,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gujarat, Urban",
+      "sdi": 0.698606793,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Haryana, Urban",
+      "sdi": 0.700776718,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Himachal Pradesh, Urban",
+      "sdi": 0.74789674,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jammu & Kashmir and Ladakh, Urban",
+      "sdi": 0.71260834,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jharkhand, Urban",
+      "sdi": 0.717094406,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Karnataka, Urban",
+      "sdi": 0.690527319,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kerala, Urban",
+      "sdi": 0.697285453,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Madhya Pradesh, Urban",
+      "sdi": 0.709310943,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maharashtra, Urban",
+      "sdi": 0.711696054,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Manipur, Urban",
+      "sdi": 0.693123668,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Meghalaya, Urban",
+      "sdi": 0.730543494,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mizoram, Urban",
+      "sdi": 0.691693747,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nagaland, Urban",
+      "sdi": 0.713773876,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Odisha, Urban",
+      "sdi": 0.696248765,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Punjab, Urban",
+      "sdi": 0.712696947,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rajasthan, Urban",
+      "sdi": 0.697067658,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sikkim, Urban",
+      "sdi": 0.668195083,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tamil Nadu, Urban",
+      "sdi": 0.691704005,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Telangana, Urban",
+      "sdi": 0.68983803,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tripura, Urban",
+      "sdi": 0.671763296,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Uttar Pradesh, Urban",
+      "sdi": 0.700447241,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Uttarakhand, Urban",
+      "sdi": 0.734019557,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Bengal, Urban",
+      "sdi": 0.686084706,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Andhra Pradesh, Rural",
+      "sdi": 0.526400311,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Arunachal Pradesh, Rural",
+      "sdi": 0.561165665,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Assam, Rural",
+      "sdi": 0.595875429,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bihar, Rural",
+      "sdi": 0.526156805,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chhattisgarh, Rural",
+      "sdi": 0.525550377,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Delhi, Rural",
+      "sdi": 0.643123515,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Goa, Rural",
+      "sdi": 0.653998951,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gujarat, Rural",
+      "sdi": 0.558564198,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Haryana, Rural",
+      "sdi": 0.590318261,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Himachal Pradesh, Rural",
+      "sdi": 0.639140696,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jammu & Kashmir and Ladakh, Rural",
+      "sdi": 0.608369553,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jharkhand, Rural",
+      "sdi": 0.520620143,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Karnataka, Rural",
+      "sdi": 0.550063652,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kerala, Rural",
+      "sdi": 0.645195019,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Madhya Pradesh, Rural",
+      "sdi": 0.508752856,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maharashtra, Rural",
+      "sdi": 0.592540087,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Manipur, Rural",
+      "sdi": 0.622872219,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Meghalaya, Rural",
+      "sdi": 0.573176482,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mizoram, Rural",
+      "sdi": 0.59351198,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nagaland, Rural",
+      "sdi": 0.617864931,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Odisha, Rural",
+      "sdi": 0.562306743,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Punjab, Rural",
+      "sdi": 0.609388653,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rajasthan, Rural",
+      "sdi": 0.515595155,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sikkim, Rural",
+      "sdi": 0.565608287,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tamil Nadu, Rural",
+      "sdi": 0.604026546,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Telangana, Rural",
+      "sdi": 0.509335292,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tripura, Rural",
+      "sdi": 0.566237544,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Uttar Pradesh, Rural",
+      "sdi": 0.558501702,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Uttarakhand, Rural",
+      "sdi": 0.617551952,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Bengal, Rural",
+      "sdi": 0.548984516,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Commonwealth",
+      "sdi": 0.600327086,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Commonwealth High Income",
+      "sdi": 0.875115168,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Commonwealth Middle Income",
+      "sdi": 0.580850548,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Commonwealth Low Income",
+      "sdi": 0.416182854,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Other Union Territories",
+      "sdi": 0.680575718,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Other Union Territories, Rural",
+      "sdi": 0.601469147,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Other Union Territories, Urban",
+      "sdi": 0.700344882,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "African Region",
+      "sdi": 0.4828054,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Region of the Americas",
+      "sdi": 0.765657435,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South-East Asia Region",
+      "sdi": 0.609552968,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "European Region",
+      "sdi": 0.818209352,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eastern Mediterranean Region",
+      "sdi": 0.620344749,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Western Pacific Region",
+      "sdi": 0.735265026,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "World Bank High Income",
+      "sdi": 0.861245173,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "World Bank Upper Middle Income",
+      "sdi": 0.708576603,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "World Bank Lower Middle Income",
+      "sdi": 0.578868368,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "World Bank Low Income",
+      "sdi": 0.405349266,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "OECD Countries",
+      "sdi": 0.837191136,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "G20",
+      "sdi": 0.689030438,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "African Union",
+      "sdi": 0.518324227,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "World Bank Income Levels",
+      "sdi": 0.675200552,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "High-middle SDI",
+      "sdi": 0.703552698,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "High SDI",
+      "sdi": 0.81575959,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Low-middle SDI",
+      "sdi": 0.574182322,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Low SDI",
+      "sdi": 0.458999659,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North America",
+      "sdi": 0.877521111,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Middle SDI",
+      "sdi": 0.660143435,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nordic Region",
+      "sdi": 0.911544945,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Coast",
+      "sdi": 0.538194559,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eastern",
+      "sdi": 0.524624337,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nairobi",
+      "sdi": 0.704669536,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Eastern",
+      "sdi": 0.263576954,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nyanza",
+      "sdi": 0.530346825,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rift Valley",
+      "sdi": 0.521692792,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Western",
+      "sdi": 0.504967579,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tigray",
+      "sdi": 0.443732249,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Afar",
+      "sdi": 0.279035164,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Amhara",
+      "sdi": 0.385725999,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oromia",
+      "sdi": 0.386744926,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Benishangul-Gumuz",
+      "sdi": 0.404707485,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Harari",
+      "sdi": 0.470521366,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gambella",
+      "sdi": 0.461334875,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Addis Ababa",
+      "sdi": 0.624886622,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Dire Dawa",
+      "sdi": 0.508590342,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Alborz",
+      "sdi": 0.758621504,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ardebil",
+      "sdi": 0.679707456,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "East Azarbayejan",
+      "sdi": 0.688075821,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "West Azarbayejan",
+      "sdi": 0.655249187,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bushehr",
+      "sdi": 0.721585236,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chahar Mahaal and Bakhtiari",
+      "sdi": 0.678079501,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Fars",
+      "sdi": 0.730536871,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gilan",
+      "sdi": 0.728081405,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Golestan",
+      "sdi": 0.668346213,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hamadan",
+      "sdi": 0.685137014,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Hormozgan",
+      "sdi": 0.684932261,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ilam",
+      "sdi": 0.712861094,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Isfahan",
+      "sdi": 0.734971975,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kerman",
+      "sdi": 0.694437137,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kermanshah",
+      "sdi": 0.689262713,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Khorasan",
+      "sdi": 0.661914638,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Khorasan-e-Razavi",
+      "sdi": 0.699904575,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Khorasan",
+      "sdi": 0.66598802,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Khuzestan",
+      "sdi": 0.682417022,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kohgiluyeh and Boyer-Ahmad",
+      "sdi": 0.695061182,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kurdistan",
+      "sdi": 0.655484583,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lorestan",
+      "sdi": 0.685228421,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Markazi",
+      "sdi": 0.705377114,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mazandaran",
+      "sdi": 0.745913576,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Qazvin",
+      "sdi": 0.709291987,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Qom",
+      "sdi": 0.70171549,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Semnan",
+      "sdi": 0.733745319,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sistan and Baluchistan",
+      "sdi": 0.57342482,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tehran",
+      "sdi": 0.797271033,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yazd",
+      "sdi": 0.723978731,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zanjan",
+      "sdi": 0.679669701,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Belgorod oblast",
+      "sdi": 0.822753617,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bryansk oblast",
+      "sdi": 0.812671352,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Vladimir oblast",
+      "sdi": 0.818221871,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Voronezh oblast",
+      "sdi": 0.822020779,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ivanovo oblast",
+      "sdi": 0.814935581,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kaluga oblast",
+      "sdi": 0.815392754,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kostroma oblast",
+      "sdi": 0.813626733,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kursk oblast",
+      "sdi": 0.811069143,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lipetzk oblast",
+      "sdi": 0.81547682,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Moscow oblast",
+      "sdi": 0.836416617,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oryol oblast",
+      "sdi": 0.817804378,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ryazan oblast",
+      "sdi": 0.819179784,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Smolensk oblast",
+      "sdi": 0.823176477,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tambov oblast",
+      "sdi": 0.8109243,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tver oblast",
+      "sdi": 0.82031415,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tula oblast",
+      "sdi": 0.817818686,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yaroslavl oblast",
+      "sdi": 0.828275425,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Moscow City",
+      "sdi": 0.87240708,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Karelia",
+      "sdi": 0.822624455,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Komi Republic",
+      "sdi": 0.809983961,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nenets autonomous district",
+      "sdi": 0.779091481,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Arkhangelsk oblast without Nenets autonomous district",
+      "sdi": 0.824056153,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Vologda oblast",
+      "sdi": 0.81681657,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kaliningrad oblast",
+      "sdi": 0.825522914,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Leningrad oblast",
+      "sdi": 0.831943232,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Murmansk oblast",
+      "sdi": 0.835054614,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Novgorod oblast",
+      "sdi": 0.799509713,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Pskov oblast",
+      "sdi": 0.811497683,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Saint Petersburg",
+      "sdi": 0.857908125,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Adygeya",
+      "sdi": 0.797592698,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Kalmykia",
+      "sdi": 0.8084974,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Crimea",
+      "sdi": 0.736611472,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Krasnodar kray",
+      "sdi": 0.821334375,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Astrakhan oblast",
+      "sdi": 0.797593659,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Volgograd oblast",
+      "sdi": 0.817264378,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rostov oblast",
+      "sdi": 0.819306983,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sevastopol",
+      "sdi": 0.755984553,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Dagestan",
+      "sdi": 0.77110605,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Ingushetia",
+      "sdi": 0.78419244,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kabardino-Balkar Republic",
+      "sdi": 0.800731614,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Karachay-Cherkess Republic",
+      "sdi": 0.813384646,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of North Ossetia-Alania",
+      "sdi": 0.817267729,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chechen Republic",
+      "sdi": 0.73340053,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Stavropol kray",
+      "sdi": 0.80524223,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Bashkortostan",
+      "sdi": 0.822834838,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Mari El",
+      "sdi": 0.81090603,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Mordovia",
+      "sdi": 0.823076253,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Tatarstan",
+      "sdi": 0.823051311,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Udmurt Republic",
+      "sdi": 0.815681094,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chuvash Republic",
+      "sdi": 0.813649382,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Perm kray",
+      "sdi": 0.812036284,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kirov oblast",
+      "sdi": 0.815968181,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nizhny Novgorod oblast",
+      "sdi": 0.8277465,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Orenburg oblast",
+      "sdi": 0.808495573,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Penza oblast",
+      "sdi": 0.814357797,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Samara oblast",
+      "sdi": 0.829040256,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Saratov oblast",
+      "sdi": 0.817398194,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ulyanovsk oblast",
+      "sdi": 0.81038947,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kurgan oblast",
+      "sdi": 0.796608106,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sverdlovsk oblast",
+      "sdi": 0.821600659,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Khanty-Mansi autonomous area",
+      "sdi": 0.830229355,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Yamalo-Nenets autonomous area",
+      "sdi": 0.831328555,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tyumen oblast without autonomous areas",
+      "sdi": 0.814044611,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chelyabinsk oblast",
+      "sdi": 0.81374947,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Altai",
+      "sdi": 0.782025822,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Buryatia",
+      "sdi": 0.802587501,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Tuva",
+      "sdi": 0.749780069,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Khakassia",
+      "sdi": 0.799543363,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Altai kray",
+      "sdi": 0.805191063,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zabaikalsk kray",
+      "sdi": 0.800674382,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Krasnoyarsk kray",
+      "sdi": 0.813281619,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Irkutsk oblast",
+      "sdi": 0.806781535,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kemerovo oblast",
+      "sdi": 0.811818894,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Novosibirsk oblast",
+      "sdi": 0.816893525,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Omsk oblast",
+      "sdi": 0.81196052,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tomsk oblast",
+      "sdi": 0.829475193,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Republic of Sakha (Yakutia)",
+      "sdi": 0.822619463,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kamchatka kray",
+      "sdi": 0.802739373,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Primorsky kray",
+      "sdi": 0.821772153,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Khabarovsk kray",
+      "sdi": 0.824218803,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Amur oblast",
+      "sdi": 0.80976468,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Magadan oblast",
+      "sdi": 0.819261461,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sakhalin oblast",
+      "sdi": 0.813409485,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Jewish autonomous oblast",
+      "sdi": 0.787419507,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Chukotka Autonomous Area",
+      "sdi": 0.790147555,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tr\u00f8ndelag",
+      "sdi": 0.917735596,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mountain Province",
+      "sdi": 0.557778293,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ifugao",
+      "sdi": 0.603516058,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Benguet",
+      "sdi": 0.733811729,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Abra",
+      "sdi": 0.636647996,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Apayao",
+      "sdi": 0.623783866,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kalinga",
+      "sdi": 0.602247367,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "La Union",
+      "sdi": 0.677811787,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ilocos Norte",
+      "sdi": 0.691119828,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ilocos Sur",
+      "sdi": 0.677416758,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Pangasinan",
+      "sdi": 0.689121998,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nueva Vizcaya",
+      "sdi": 0.632872537,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cagayan",
+      "sdi": 0.651797267,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Isabela",
+      "sdi": 0.654605213,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Quirino",
+      "sdi": 0.59873027,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Batanes",
+      "sdi": 0.732486691,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bataan",
+      "sdi": 0.689541958,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zambales",
+      "sdi": 0.68139209,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tarlac",
+      "sdi": 0.67259159,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Pampanga",
+      "sdi": 0.719338745,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bulacan",
+      "sdi": 0.725318304,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Nueva Ecija",
+      "sdi": 0.672473694,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Aurora",
+      "sdi": 0.630023798,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Rizal",
+      "sdi": 0.721031566,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cavite",
+      "sdi": 0.750241294,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Laguna",
+      "sdi": 0.716233606,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Batangas",
+      "sdi": 0.711180387,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Quezon",
+      "sdi": 0.65294398,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Occidental Mindoro",
+      "sdi": 0.501159831,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Oriental Mindoro",
+      "sdi": 0.627285959,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Romblon",
+      "sdi": 0.577878842,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Palawan",
+      "sdi": 0.582037731,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Marinduque",
+      "sdi": 0.60426526,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Catanduanes",
+      "sdi": 0.597309421,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Camarines Norte",
+      "sdi": 0.62259754,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sorsogon",
+      "sdi": 0.627360353,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Albay",
+      "sdi": 0.659966835,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Masbate",
+      "sdi": 0.507995157,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Camarines Sur",
+      "sdi": 0.652916589,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Capiz",
+      "sdi": 0.59975363,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Aklan",
+      "sdi": 0.653042917,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Antique",
+      "sdi": 0.578430774,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Negros Occidental",
+      "sdi": 0.625482606,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Iloilo",
+      "sdi": 0.680288195,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Guimaras",
+      "sdi": 0.638083498,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Negros Oriental",
+      "sdi": 0.595056492,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cebu",
+      "sdi": 0.685149022,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bohol",
+      "sdi": 0.619460013,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Siquijor",
+      "sdi": 0.631605269,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southern Leyte",
+      "sdi": 0.6158025,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eastern Samar",
+      "sdi": 0.54322263,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Northern Samar",
+      "sdi": 0.592855298,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Samar (Western Samar)",
+      "sdi": 0.564527557,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Leyte",
+      "sdi": 0.635142665,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zamboanga Sibugay",
+      "sdi": 0.574839649,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zamboanga Del Norte",
+      "sdi": 0.560752313,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zamboanga Del Sur",
+      "sdi": 0.63853432,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Misamis Occidental",
+      "sdi": 0.599625563,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Bukidnon",
+      "sdi": 0.574858357,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lanao Del Norte",
+      "sdi": 0.606335084,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Misamis Oriental",
+      "sdi": 0.672577167,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Camiguin",
+      "sdi": 0.661701585,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Davao Oriental",
+      "sdi": 0.565663402,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Davao de Oro",
+      "sdi": 0.571796115,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Davao Del Sur",
+      "sdi": 0.669635909,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Davao Occidental",
+      "sdi": 0.505415517,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Davao Del Norte",
+      "sdi": 0.645577142,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South Cotabato",
+      "sdi": 0.643589591,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sultan Kudarat",
+      "sdi": 0.556678851,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cotabato (North Cotabato)",
+      "sdi": 0.577366735,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sarangani",
+      "sdi": 0.547199544,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Agusan Del Norte",
+      "sdi": 0.640781418,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Agusan Del Sur",
+      "sdi": 0.564837077,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Surigao Del Sur",
+      "sdi": 0.603478595,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Surigao Del Norte",
+      "sdi": 0.645140467,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Dinagat Islands",
+      "sdi": 0.592718181,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Tawi-Tawi",
+      "sdi": 0.559780848,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Basilan",
+      "sdi": 0.564621477,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sulu",
+      "sdi": 0.525991279,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maguindanao",
+      "sdi": 0.542587739,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lanao Del Sur",
+      "sdi": 0.557402112,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "National Capital Region",
+      "sdi": 0.761143222,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Azad Jammu & Kashmir",
+      "sdi": 0.570801654,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Balochistan",
+      "sdi": 0.402528256,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gilgit-Baltistan",
+      "sdi": 0.459449812,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Islamabad Capital Territory",
+      "sdi": 0.683745723,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Khyber Pakhtunkhwa",
+      "sdi": 0.433925069,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Punjab",
+      "sdi": 0.540068027,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sindh",
+      "sdi": 0.519411601,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Dolno\u015bl\u0105skie",
+      "sdi": 0.849724263,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kujawsko-Pomorskie",
+      "sdi": 0.833348573,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "\u0141\u00f3dzkie",
+      "sdi": 0.842701786,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lubelskie",
+      "sdi": 0.839011678,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Lubuskie",
+      "sdi": 0.829453581,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ma\u0142opolskie",
+      "sdi": 0.853211108,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mazowieckie",
+      "sdi": 0.865419676,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Opolskie",
+      "sdi": 0.838375207,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Podkarpackie",
+      "sdi": 0.844745081,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Podlaskie",
+      "sdi": 0.837389626,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Pomorskie",
+      "sdi": 0.841969361,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "\u015al\u0105skie",
+      "sdi": 0.854606824,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "\u015awi\u0119tokrzyskie",
+      "sdi": 0.843306604,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Warmi\u0144sko-Mazurskie",
+      "sdi": 0.828789341,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Wielkopolskie",
+      "sdi": 0.844822557,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Zachodniopomorskie",
+      "sdi": 0.832294035,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Vestland",
+      "sdi": 0.917876822,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Agder",
+      "sdi": 0.91106479,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Vestfold og Telemark",
+      "sdi": 0.907845284,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Innlandet",
+      "sdi": 0.904110398,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Viken",
+      "sdi": 0.914651814,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Troms og Finnmark",
+      "sdi": 0.904768348,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sidama",
+      "sdi": 0.347485394,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Organization of Islamic Cooperation",
+      "sdi": 0.586746642,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Association of Southeast Asian Nations",
+      "sdi": 0.66332271,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Gulf Cooperation Council",
+      "sdi": 0.838681824,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "South West",
+      "sdi": 0.364518772,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Sahel Region",
+      "sdi": 0.403000515,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southern Nations, Nationalities, and Peoples",
+      "sdi": 0.384763181,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Central Federal Okrug",
+      "sdi": 0.841362948,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Southern Federal Okrug",
+      "sdi": 0.817624079,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Northwest Federal Okrug",
+      "sdi": 0.837303743,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Far Eastern Federal Okrug",
+      "sdi": 0.81414277,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Siberian Federal Okrug",
+      "sdi": 0.810624445,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Ural Federal Okrug",
+      "sdi": 0.818800836,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Volga Federal Okrug",
+      "sdi": 0.819735933,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "North Caucasian Federal Okrug",
+      "sdi": 0.78137003,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Advanced Health System",
+      "sdi": 0.85330657,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Basic Health System",
+      "sdi": 0.701346,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Limited Health System",
+      "sdi": 0.553205354,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Minimal Health System",
+      "sdi": 0.347714774,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Health System Grouping Levels",
+      "sdi": 0.675200804,
+      "n_trials": 0,
+      "desert_score": 0.0,
+      "status": "DESERT"
+    },
+    {
+      "location": "Eritrea",
+      "sdi": 0.414533257,
+      "n_trials": 1,
+      "desert_score": 1.7080389480452454,
+      "status": "DESERT"
+    },
+    {
+      "location": "Kiribati",
+      "sdi": 0.542688753,
+      "n_trials": 1,
+      "desert_score": 2.1866945244435034,
+      "status": "DESERT"
+    },
+    {
+      "location": "Cabo Verde",
+      "sdi": 0.562409777,
+      "n_trials": 1,
+      "desert_score": 2.285243013236783,
+      "status": "DESERT"
+    },
+    {
+      "location": "Micronesia (Federated States of)",
+      "sdi": 0.596840305,
+      "n_trials": 1,
+      "desert_score": 2.480406677934309,
+      "status": "DESERT"
+    },
+    {
+      "location": "Saint Vincent and the Grenadines",
+      "sdi": 0.65846284,
+      "n_trials": 1,
+      "desert_score": 2.9279390848925666,
+      "status": "DESERT"
+    },
+    {
+      "location": "Maldives",
+      "sdi": 0.660888616,
+      "n_trials": 1,
+      "desert_score": 2.948883602518964,
+      "status": "DESERT"
+    },
+    {
+      "location": "Turkmenistan",
+      "sdi": 0.682174647,
+      "n_trials": 1,
+      "desert_score": 3.1463820939588847,
+      "status": "DESERT"
+    },
+    {
+      "location": "Micronesia",
+      "sdi": 0.716456849,
+      "n_trials": 1,
+      "desert_score": 3.526800051845794,
+      "status": "DESERT"
+    },
+    {
+      "location": "Timor-Leste",
+      "sdi": 0.484532958,
+      "n_trials": 2,
+      "desert_score": 3.879976480847445,
+      "status": "DESERT"
+    },
+    {
+      "location": "Seychelles",
+      "sdi": 0.753016949,
+      "n_trials": 1,
+      "desert_score": 4.048860824847103,
+      "status": "DESERT"
+    },
+    {
+      "location": "Mauritania",
+      "sdi": 0.518009346,
+      "n_trials": 2,
+      "desert_score": 4.149458050663892,
+      "status": "DESERT"
+    },
+    {
+      "location": "Imo",
+      "sdi": 0.646338827,
+      "n_trials": 2,
+      "desert_score": 5.655130254953057,
+      "status": "DESERT"
+    },
+    {
+      "location": "Saint Lucia",
+      "sdi": 0.70288814,
+      "n_trials": 2,
+      "desert_score": 6.731471437480997,
+      "status": "DESERT"
+    },
+    {
+      "location": "Djibouti",
+      "sdi": 0.491006575,
+      "n_trials": 4,
+      "desert_score": 7.8586476813804325,
+      "status": "DESERT"
+    },
+    {
+      "location": "Solomon Islands",
+      "sdi": 0.45802266,
+      "n_trials": 5,
+      "desert_score": 9.225477949091843,
+      "status": "DESERT"
+    },
+    {
+      "location": "Northern Mariana Islands",
+      "sdi": 0.791104245,
+      "n_trials": 2,
+      "desert_score": 9.574153381156952,
+      "status": "DESERT"
+    },
+    {
+      "location": "Comoros",
+      "sdi": 0.478698597,
+      "n_trials": 5,
+      "desert_score": 9.591380284546945,
+      "status": "DESERT"
+    },
+    {
+      "location": "Guyana",
+      "sdi": 0.695580314,
+      "n_trials": 3,
+      "desert_score": 9.854816022031237,
+      "status": "DESERT"
+    },
+    {
+      "location": "Vanuatu",
+      "sdi": 0.47654316,
+      "n_trials": 6,
+      "desert_score": 11.462263056594646,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bermuda",
+      "sdi": 0.826940374,
+      "n_trials": 2,
+      "desert_score": 11.556710511117878,
+      "status": "STABLE"
+    },
+    {
+      "location": "Chad",
+      "sdi": 0.239323301,
+      "n_trials": 12,
+      "desert_score": 15.775427345412163,
+      "status": "STABLE"
+    },
+    {
+      "location": "Niue",
+      "sdi": 0.748490237,
+      "n_trials": 4,
+      "desert_score": 15.903955181292917,
+      "status": "STABLE"
+    },
+    {
+      "location": "Central African Republic",
+      "sdi": 0.259147219,
+      "n_trials": 15,
+      "desert_score": 20.24693755988655,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bhutan",
+      "sdi": 0.52425393,
+      "n_trials": 10,
+      "desert_score": 21.019616615851472,
+      "status": "STABLE"
+    },
+    {
+      "location": "Namibia",
+      "sdi": 0.619642149,
+      "n_trials": 8,
+      "desert_score": 21.032824685658237,
+      "status": "STABLE"
+    },
+    {
+      "location": "Grenada",
+      "sdi": 0.678048084,
+      "n_trials": 7,
+      "desert_score": 21.74237719966159,
+      "status": "STABLE"
+    },
+    {
+      "location": "Angola",
+      "sdi": 0.499296938,
+      "n_trials": 12,
+      "desert_score": 23.96630040501604,
+      "status": "STABLE"
+    },
+    {
+      "location": "Saint Kitts and Nevis",
+      "sdi": 0.754464215,
+      "n_trials": 6,
+      "desert_score": 24.436356588740683,
+      "status": "STABLE"
+    },
+    {
+      "location": "San Marino",
+      "sdi": 0.883012202,
+      "n_trials": 3,
+      "desert_score": 25.64370001592499,
+      "status": "STABLE"
+    },
+    {
+      "location": "Central Africa",
+      "sdi": 0.424372948,
+      "n_trials": 15,
+      "desert_score": 26.058539023273955,
+      "status": "STABLE"
+    },
+    {
+      "location": "Burundi",
+      "sdi": 0.307259853,
+      "n_trials": 19,
+      "desert_score": 27.427311784280448,
+      "status": "STABLE"
+    },
+    {
+      "location": "Suriname",
+      "sdi": 0.654870057,
+      "n_trials": 10,
+      "desert_score": 28.9745940621053,
+      "status": "STABLE"
+    },
+    {
+      "location": "Yemen",
+      "sdi": 0.446393545,
+      "n_trials": 20,
+      "desert_score": 36.126746384102994,
+      "status": "STABLE"
+    },
+    {
+      "location": "Central",
+      "sdi": 0.609649404,
+      "n_trials": 15,
+      "desert_score": 38.426993963542714,
+      "status": "STABLE"
+    },
+    {
+      "location": "New Jersey",
+      "sdi": 0.897414288,
+      "n_trials": 4,
+      "desert_score": 38.991784704879976,
+      "status": "STABLE"
+    },
+    {
+      "location": "Polynesia",
+      "sdi": 0.645871548,
+      "n_trials": 14,
+      "desert_score": 39.53367744664197,
+      "status": "STABLE"
+    },
+    {
+      "location": "Samoa",
+      "sdi": 0.604489559,
+      "n_trials": 16,
+      "desert_score": 40.4540521243903,
+      "status": "STABLE"
+    },
+    {
+      "location": "Tajikistan",
+      "sdi": 0.551182019,
+      "n_trials": 24,
+      "desert_score": 53.47379340992271,
+      "status": "STABLE"
+    },
+    {
+      "location": "Nicaragua",
+      "sdi": 0.535691817,
+      "n_trials": 25,
+      "desert_score": 53.84354812160535,
+      "status": "STABLE"
+    },
+    {
+      "location": "Fiji",
+      "sdi": 0.686418864,
+      "n_trials": 17,
+      "desert_score": 54.212444700687456,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brunei Darussalam",
+      "sdi": 0.832363947,
+      "n_trials": 10,
+      "desert_score": 59.653038920182034,
+      "status": "STABLE"
+    },
+    {
+      "location": "American Samoa",
+      "sdi": 0.743030595,
+      "n_trials": 16,
+      "desert_score": 62.26422166395092,
+      "status": "STABLE"
+    },
+    {
+      "location": "Afghanistan",
+      "sdi": 0.333711266,
+      "n_trials": 49,
+      "desert_score": 73.54169069988482,
+      "status": "STABLE"
+    },
+    {
+      "location": "Andorra",
+      "sdi": 0.879855839,
+      "n_trials": 9,
+      "desert_score": 74.91000742440573,
+      "status": "STABLE"
+    },
+    {
+      "location": "Togo",
+      "sdi": 0.4605221,
+      "n_trials": 41,
+      "desert_score": 75.99940607835845,
+      "status": "STABLE"
+    },
+    {
+      "location": "Barbados",
+      "sdi": 0.754794961,
+      "n_trials": 19,
+      "desert_score": 77.48617267303133,
+      "status": "STABLE"
+    },
+    {
+      "location": "Belize",
+      "sdi": 0.628475098,
+      "n_trials": 29,
+      "desert_score": 78.05667893613852,
+      "status": "STABLE"
+    },
+    {
+      "location": "Libya",
+      "sdi": 0.770482329,
+      "n_trials": 18,
+      "desert_score": 78.42533393499565,
+      "status": "STABLE"
+    },
+    {
+      "location": "Liberia",
+      "sdi": 0.38302106,
+      "n_trials": 50,
+      "desert_score": 81.04004326613806,
+      "status": "STABLE"
+    },
+    {
+      "location": "Azerbaijan",
+      "sdi": 0.705297926,
+      "n_trials": 32,
+      "desert_score": 108.58423748026141,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bahamas",
+      "sdi": 0.813601011,
+      "n_trials": 22,
+      "desert_score": 118.02639116351304,
+      "status": "STABLE"
+    },
+    {
+      "location": "Greenland",
+      "sdi": 0.860113904,
+      "n_trials": 17,
+      "desert_score": 121.52744607189018,
+      "status": "STABLE"
+    },
+    {
+      "location": "Madagascar",
+      "sdi": 0.379987683,
+      "n_trials": 76,
+      "desert_score": 122.5782099869835,
+      "status": "STABLE"
+    },
+    {
+      "location": "Trinidad and Tobago",
+      "sdi": 0.770448612,
+      "n_trials": 30,
+      "desert_score": 130.68969108969637,
+      "status": "STABLE"
+    },
+    {
+      "location": "Antigua and Barbuda",
+      "sdi": 0.755852569,
+      "n_trials": 32,
+      "desert_score": 131.06834610474831,
+      "status": "STABLE"
+    },
+    {
+      "location": "Mongolia",
+      "sdi": 0.659697833,
+      "n_trials": 50,
+      "desert_score": 146.9282444660635,
+      "status": "STABLE"
+    },
+    {
+      "location": "Equatorial Guinea",
+      "sdi": 0.646241526,
+      "n_trials": 57,
+      "desert_score": 161.12688224646544,
+      "status": "STABLE"
+    },
+    {
+      "location": "Benin",
+      "sdi": 0.40649626,
+      "n_trials": 100,
+      "desert_score": 168.49093483918213,
+      "status": "STABLE"
+    },
+    {
+      "location": "South Sudan",
+      "sdi": 0.379080534,
+      "n_trials": 105,
+      "desert_score": 169.10405573126226,
+      "status": "STABLE"
+    },
+    {
+      "location": "Haiti",
+      "sdi": 0.463794706,
+      "n_trials": 92,
+      "desert_score": 171.5760754552386,
+      "status": "STABLE"
+    },
+    {
+      "location": "Guam",
+      "sdi": 0.811868521,
+      "n_trials": 33,
+      "desert_score": 175.40924122782803,
+      "status": "STABLE"
+    },
+    {
+      "location": "Papua New Guinea",
+      "sdi": 0.43671418,
+      "n_trials": 99,
+      "desert_score": 175.754468632682,
+      "status": "STABLE"
+    },
+    {
+      "location": "Gambia",
+      "sdi": 0.432615004,
+      "n_trials": 100,
+      "desert_score": 176.247170241307,
+      "status": "STABLE"
+    },
+    {
+      "location": "Sierra Leone",
+      "sdi": 0.383229086,
+      "n_trials": 110,
+      "desert_score": 178.34822862960945,
+      "status": "STABLE"
+    },
+    {
+      "location": "Kyrgyzstan",
+      "sdi": 0.625153433,
+      "n_trials": 70,
+      "desert_score": 186.7430734168247,
+      "status": "STABLE"
+    },
+    {
+      "location": "Inner Mongolia",
+      "sdi": 0.74071742,
+      "n_trials": 50,
+      "desert_score": 192.8397965675751,
+      "status": "STABLE"
+    },
+    {
+      "location": "Guinea-Bissau",
+      "sdi": 0.373341963,
+      "n_trials": 128,
+      "desert_score": 204.25813190292521,
+      "status": "STABLE"
+    },
+    {
+      "location": "Mauritius",
+      "sdi": 0.736236312,
+      "n_trials": 60,
+      "desert_score": 227.4763460892022,
+      "status": "STABLE"
+    },
+    {
+      "location": "Eswatini",
+      "sdi": 0.606902305,
+      "n_trials": 91,
+      "desert_score": 231.4946160568317,
+      "status": "STABLE"
+    },
+    {
+      "location": "Gabon",
+      "sdi": 0.631085776,
+      "n_trials": 86,
+      "desert_score": 233.11651972705818,
+      "status": "STABLE"
+    },
+    {
+      "location": "Sudan",
+      "sdi": 0.573101197,
+      "n_trials": 105,
+      "desert_score": 245.95993063818452,
+      "status": "STABLE"
+    },
+    {
+      "location": "El Salvador",
+      "sdi": 0.608140065,
+      "n_trials": 104,
+      "desert_score": 265.40095244353034,
+      "status": "STABLE"
+    },
+    {
+      "location": "Guinea",
+      "sdi": 0.355150968,
+      "n_trials": 176,
+      "desert_score": 272.93209920288257,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bolivia (Plurinational State of)",
+      "sdi": 0.631803304,
+      "n_trials": 102,
+      "desert_score": 277.0258426553002,
+      "status": "STABLE"
+    },
+    {
+      "location": "Lesotho",
+      "sdi": 0.509816661,
+      "n_trials": 140,
+      "desert_score": 285.60742243309755,
+      "status": "STABLE"
+    },
+    {
+      "location": "Senegal",
+      "sdi": 0.412747283,
+      "n_trials": 169,
+      "desert_score": 287.78070339897965,
+      "status": "STABLE"
+    },
+    {
+      "location": "Uzbekistan",
+      "sdi": 0.632090937,
+      "n_trials": 106,
+      "desert_score": 288.1146746069382,
+      "status": "STABLE"
+    },
+    {
+      "location": "Cuba",
+      "sdi": 0.694880527,
+      "n_trials": 89,
+      "desert_score": 291.68901970026377,
+      "status": "STABLE"
+    },
+    {
+      "location": "Jamaica",
+      "sdi": 0.691833531,
+      "n_trials": 92,
+      "desert_score": 298.5399426118161,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bahrain",
+      "sdi": 0.784320905,
+      "n_trials": 74,
+      "desert_score": 343.1023297167013,
+      "status": "STABLE"
+    },
+    {
+      "location": "Albania",
+      "sdi": 0.706767038,
+      "n_trials": 101,
+      "desert_score": 344.43603910244025,
+      "status": "STABLE"
+    },
+    {
+      "location": "Somalia",
+      "sdi": 0.229019065,
+      "n_trials": 271,
+      "desert_score": 351.500261111969,
+      "status": "STABLE"
+    },
+    {
+      "location": "Paraguay",
+      "sdi": 0.674088962,
+      "n_trials": 115,
+      "desert_score": 352.85702709066976,
+      "status": "STABLE"
+    },
+    {
+      "location": "Honduras",
+      "sdi": 0.520269472,
+      "n_trials": 175,
+      "desert_score": 364.7881253108853,
+      "status": "STABLE"
+    },
+    {
+      "location": "Mali",
+      "sdi": 0.284970766,
+      "n_trials": 271,
+      "desert_score": 379.00548267946687,
+      "status": "STABLE"
+    },
+    {
+      "location": "Somali",
+      "sdi": 0.302088712,
+      "n_trials": 271,
+      "desert_score": 388.30149994818515,
+      "status": "STABLE"
+    },
+    {
+      "location": "Malta",
+      "sdi": 0.830491207,
+      "n_trials": 67,
+      "desert_score": 395.25973121921777,
+      "status": "STABLE"
+    },
+    {
+      "location": "Cambodia",
+      "sdi": 0.499953382,
+      "n_trials": 214,
+      "desert_score": 427.9600986266524,
+      "status": "STABLE"
+    },
+    {
+      "location": "Burkina Faso",
+      "sdi": 0.306760806,
+      "n_trials": 302,
+      "desert_score": 435.6360727585122,
+      "status": "STABLE"
+    },
+    {
+      "location": "Rwanda",
+      "sdi": 0.462112705,
+      "n_trials": 247,
+      "desert_score": 459.2040047238513,
+      "status": "STABLE"
+    },
+    {
+      "location": "Mozambique",
+      "sdi": 0.341791325,
+      "n_trials": 307,
+      "desert_score": 466.4174320603694,
+      "status": "STABLE"
+    },
+    {
+      "location": "Cameroon",
+      "sdi": 0.487083713,
+      "n_trials": 293,
+      "desert_score": 571.2433146870917,
+      "status": "STABLE"
+    },
+    {
+      "location": "Democratic Republic of the Congo",
+      "sdi": 0.395104186,
+      "n_trials": 361,
+      "desert_score": 596.796988150955,
+      "status": "STABLE"
+    },
+    {
+      "location": "Botswana",
+      "sdi": 0.677582005,
+      "n_trials": 197,
+      "desert_score": 611.0080795549243,
+      "status": "STABLE"
+    },
+    {
+      "location": "Uruguay",
+      "sdi": 0.745444259,
+      "n_trials": 157,
+      "desert_score": 616.7607900790731,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ethiopia (Sahel)",
+      "sdi": 0.302088712,
+      "n_trials": 450,
+      "desert_score": 644.7810884748462,
+      "status": "STABLE"
+    },
+    {
+      "location": "Montenegro",
+      "sdi": 0.788565722,
+      "n_trials": 141,
+      "desert_score": 666.8738922896532,
+      "status": "STABLE"
+    },
+    {
+      "location": "Syrian Arab Republic",
+      "sdi": 0.58868192,
+      "n_trials": 292,
+      "desert_score": 709.9128730957042,
+      "status": "STABLE"
+    },
+    {
+      "location": "Armenia",
+      "sdi": 0.717334917,
+      "n_trials": 205,
+      "desert_score": 725.2399120250589,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ethiopia",
+      "sdi": 0.393767735,
+      "n_trials": 450,
+      "desert_score": 742.2897557683951,
+      "status": "STABLE"
+    },
+    {
+      "location": "Zimbabwe",
+      "sdi": 0.491184885,
+      "n_trials": 389,
+      "desert_score": 764.5213132545166,
+      "status": "STABLE"
+    },
+    {
+      "location": "Congo",
+      "sdi": 0.57784943,
+      "n_trials": 361,
+      "desert_score": 855.1451201747411,
+      "status": "STABLE"
+    },
+    {
+      "location": "Morocco",
+      "sdi": 0.612385219,
+      "n_trials": 332,
+      "desert_score": 856.5204842236084,
+      "status": "STABLE"
+    },
+    {
+      "location": "Venezuela (Bolivarian Republic of)",
+      "sdi": 0.580213457,
+      "n_trials": 386,
+      "desert_score": 919.5149447848034,
+      "status": "STABLE"
+    },
+    {
+      "location": "Sri Lanka",
+      "sdi": 0.730697976,
+      "n_trials": 254,
+      "desert_score": 943.1789487986993,
+      "status": "STABLE"
+    },
+    {
+      "location": "Zambia",
+      "sdi": 0.505571537,
+      "n_trials": 484,
+      "desert_score": 978.9080445842156,
+      "status": "STABLE"
+    },
+    {
+      "location": "Edo",
+      "sdi": 0.625916631,
+      "n_trials": 371,
+      "desert_score": 991.757534938219,
+      "status": "STABLE"
+    },
+    {
+      "location": "Malawi",
+      "sdi": 0.409532838,
+      "n_trials": 613,
+      "desert_score": 1038.161034764172,
+      "status": "STABLE"
+    },
+    {
+      "location": "Algeria",
+      "sdi": 0.657757116,
+      "n_trials": 370,
+      "desert_score": 1081.1035588745494,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ghana",
+      "sdi": 0.573769063,
+      "n_trials": 462,
+      "desert_score": 1083.9194431623532,
+      "status": "STABLE"
+    },
+    {
+      "location": "Dominican Republic",
+      "sdi": 0.658091059,
+      "n_trials": 381,
+      "desert_score": 1114.3317831181455,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ecuador",
+      "sdi": 0.690996593,
+      "n_trials": 369,
+      "desert_score": 1194.1615902007964,
+      "status": "STABLE"
+    },
+    {
+      "location": "Niger",
+      "sdi": 0.203013134,
+      "n_trials": 980,
+      "desert_score": 1229.631304710907,
+      "status": "STABLE"
+    },
+    {
+      "location": "Nepal",
+      "sdi": 0.471006784,
+      "n_trials": 665,
+      "desert_score": 1257.1049680045228,
+      "status": "STABLE"
+    },
+    {
+      "location": "Monaco",
+      "sdi": 0.92270063,
+      "n_trials": 98,
+      "desert_score": 1267.7981705830232,
+      "status": "STABLE"
+    },
+    {
+      "location": "Iraq",
+      "sdi": 0.653812815,
+      "n_trials": 462,
+      "desert_score": 1334.5381339478126,
+      "status": "STABLE"
+    },
+    {
+      "location": "Costa Rica",
+      "sdi": 0.71538598,
+      "n_trials": 414,
+      "desert_score": 1454.601568308335,
+      "status": "STABLE"
+    },
+    {
+      "location": "North Macedonia",
+      "sdi": 0.758480094,
+      "n_trials": 352,
+      "desert_score": 1457.436803798095,
+      "status": "STABLE"
+    },
+    {
+      "location": "United Republic of Tanzania",
+      "sdi": 0.465888633,
+      "n_trials": 800,
+      "desert_score": 1497.8149675856243,
+      "status": "STABLE"
+    },
+    {
+      "location": "Dominica",
+      "sdi": 0.75366422,
+      "n_trials": 381,
+      "desert_score": 1546.6693463910644,
+      "status": "STABLE"
+    },
+    {
+      "location": "Niger",
+      "sdi": 0.425816102,
+      "n_trials": 980,
+      "desert_score": 1706.770258174887,
+      "status": "STABLE"
+    },
+    {
+      "location": "Nigeria (Sahel)",
+      "sdi": 0.432012673,
+      "n_trials": 980,
+      "desert_score": 1725.3906086314157,
+      "status": "STABLE"
+    },
+    {
+      "location": "Kazakhstan",
+      "sdi": 0.727191018,
+      "n_trials": 471,
+      "desert_score": 1726.4827439858693,
+      "status": "STABLE"
+    },
+    {
+      "location": "Republic of Moldova",
+      "sdi": 0.733718614,
+      "n_trials": 486,
+      "desert_score": 1825.1369617607684,
+      "status": "STABLE"
+    },
+    {
+      "location": "Qatar",
+      "sdi": 0.859589918,
+      "n_trials": 257,
+      "desert_score": 1830.352893155953,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bangladesh",
+      "sdi": 0.517107282,
+      "n_trials": 942,
+      "desert_score": 1950.7438499102104,
+      "status": "STABLE"
+    },
+    {
+      "location": "Luxembourg",
+      "sdi": 0.89475691,
+      "n_trials": 211,
+      "desert_score": 2004.882218865978,
+      "status": "STABLE"
+    },
+    {
+      "location": "Nigeria",
+      "sdi": 0.511952631,
+      "n_trials": 980,
+      "desert_score": 2008.001808937525,
+      "status": "STABLE"
+    },
+    {
+      "location": "Panama",
+      "sdi": 0.71530692,
+      "n_trials": 576,
+      "desert_score": 2023.23147368976,
+      "status": "STABLE"
+    },
+    {
+      "location": "Guatemala",
+      "sdi": 0.553757769,
+      "n_trials": 906,
+      "desert_score": 2030.2874467230133,
+      "status": "STABLE"
+    },
+    {
+      "location": "Kuwait",
+      "sdi": 0.877142895,
+      "n_trials": 256,
+      "desert_score": 2083.721570613501,
+      "status": "STABLE"
+    },
+    {
+      "location": "Cyprus",
+      "sdi": 0.855816058,
+      "n_trials": 330,
+      "desert_score": 2288.743081883042,
+      "status": "STABLE"
+    },
+    {
+      "location": "Iceland",
+      "sdi": 0.888965507,
+      "n_trials": 266,
+      "desert_score": 2395.6519507900557,
+      "status": "STABLE"
+    },
+    {
+      "location": "Uganda",
+      "sdi": 0.442281237,
+      "n_trials": 1399,
+      "desert_score": 2508.432730905194,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bosnia and Herzegovina",
+      "sdi": 0.712915296,
+      "n_trials": 738,
+      "desert_score": 2570.6698735956797,
+      "status": "STABLE"
+    },
+    {
+      "location": "Jordan",
+      "sdi": 0.72035157,
+      "n_trials": 778,
+      "desert_score": 2782.064607771242,
+      "status": "STABLE"
+    },
+    {
+      "location": "Tunisia",
+      "sdi": 0.683722134,
+      "n_trials": 1060,
+      "desert_score": 3351.483343019811,
+      "status": "STABLE"
+    },
+    {
+      "location": "Kenya",
+      "sdi": 0.548710797,
+      "n_trials": 1554,
+      "desert_score": 3443.4681559524333,
+      "status": "STABLE"
+    },
+    {
+      "location": "Lebanon",
+      "sdi": 0.723671502,
+      "n_trials": 1264,
+      "desert_score": 4574.26580570265,
+      "status": "STABLE"
+    },
+    {
+      "location": "Belarus",
+      "sdi": 0.803625792,
+      "n_trials": 927,
+      "desert_score": 4720.579188932702,
+      "status": "STABLE"
+    },
+    {
+      "location": "Biliran",
+      "sdi": 0.634341092,
+      "n_trials": 1826,
+      "desert_score": 4993.724915627182,
+      "status": "STABLE"
+    },
+    {
+      "location": "United Arab Emirates",
+      "sdi": 0.862209546,
+      "n_trials": 882,
+      "desert_score": 6401.023973401651,
+      "status": "STABLE"
+    },
+    {
+      "location": "Iran (Islamic Republic of)",
+      "sdi": 0.717585049,
+      "n_trials": 1826,
+      "desert_score": 6465.663354180684,
+      "status": "STABLE"
+    },
+    {
+      "location": "Abia",
+      "sdi": 0.634387716,
+      "n_trials": 2514,
+      "desert_score": 6876.136577819104,
+      "status": "STABLE"
+    },
+    {
+      "location": "Indonesia",
+      "sdi": 0.665731524,
+      "n_trials": 2480,
+      "desert_score": 7419.186005616879,
+      "status": "STABLE"
+    },
+    {
+      "location": "Pakistan",
+      "sdi": 0.512722944,
+      "n_trials": 5908,
+      "desert_score": 12124.519154022199,
+      "status": "STABLE"
+    },
+    {
+      "location": "Georgia",
+      "sdi": 0.754633377,
+      "n_trials": 3254,
+      "desert_score": 13261.787438276888,
+      "status": "STABLE"
+    },
+    {
+      "location": "Peru",
+      "sdi": 0.685607664,
+      "n_trials": 4273,
+      "desert_score": 13591.298226305584,
+      "status": "STABLE"
+    },
+    {
+      "location": "Slovenia",
+      "sdi": 0.844865839,
+      "n_trials": 2228,
+      "desert_score": 14361.762645970823,
+      "status": "STABLE"
+    },
+    {
+      "location": "Saudi Arabia",
+      "sdi": 0.828451182,
+      "n_trials": 2514,
+      "desert_score": 14654.720608652215,
+      "status": "STABLE"
+    },
+    {
+      "location": "Philippines",
+      "sdi": 0.669416191,
+      "n_trials": 5111,
+      "desert_score": 15460.52728327644,
+      "status": "STABLE"
+    },
+    {
+      "location": "Croatia",
+      "sdi": 0.782133463,
+      "n_trials": 3944,
+      "desert_score": 18102.82594334217,
+      "status": "STABLE"
+    },
+    {
+      "location": "Estonia",
+      "sdi": 0.854860197,
+      "n_trials": 2842,
+      "desert_score": 19581.120680189215,
+      "status": "STABLE"
+    },
+    {
+      "location": "Colombia",
+      "sdi": 0.688855489,
+      "n_trials": 6525,
+      "desert_score": 20970.962903802934,
+      "status": "STABLE"
+    },
+    {
+      "location": "Latvia",
+      "sdi": 0.8508436,
+      "n_trials": 3260,
+      "desert_score": 21856.252884987673,
+      "status": "STABLE"
+    },
+    {
+      "location": "Georgia",
+      "sdi": 0.8629828,
+      "n_trials": 3254,
+      "desert_score": 23748.843193592606,
+      "status": "STABLE"
+    },
+    {
+      "location": "Lithuania",
+      "sdi": 0.856187639,
+      "n_trials": 3575,
+      "desert_score": 24858.781071775327,
+      "status": "STABLE"
+    },
+    {
+      "location": "Serbia",
+      "sdi": 0.784525117,
+      "n_trials": 5767,
+      "desert_score": 26764.140288794526,
+      "status": "STABLE"
+    },
+    {
+      "location": "Malaysia",
+      "sdi": 0.770371353,
+      "n_trials": 6728,
+      "desert_score": 29299.48020409689,
+      "status": "STABLE"
+    },
+    {
+      "location": "Thailand",
+      "sdi": 0.68718778,
+      "n_trials": 9446,
+      "desert_score": 30197.03001685899,
+      "status": "STABLE"
+    },
+    {
+      "location": "New Zealand Maori population",
+      "sdi": 0.796187558,
+      "n_trials": 6529,
+      "desert_score": 32034.354393322872,
+      "status": "STABLE"
+    },
+    {
+      "location": "Puerto Rico",
+      "sdi": 0.847508564,
+      "n_trials": 5378,
+      "desert_score": 35267.55428070887,
+      "status": "STABLE"
+    },
+    {
+      "location": "Chile",
+      "sdi": 0.788533125,
+      "n_trials": 7679,
+      "desert_score": 36313.01591026347,
+      "status": "STABLE"
+    },
+    {
+      "location": "Northern Ireland",
+      "sdi": 0.864426949,
+      "n_trials": 5186,
+      "desert_score": 38252.43997920172,
+      "status": "STABLE"
+    },
+    {
+      "location": "Singapore",
+      "sdi": 0.869993868,
+      "n_trials": 5776,
+      "desert_score": 44428.673530238804,
+      "status": "STABLE"
+    },
+    {
+      "location": "New Zealand",
+      "sdi": 0.866430611,
+      "n_trials": 6529,
+      "desert_score": 48880.96025588544,
+      "status": "STABLE"
+    },
+    {
+      "location": "Portugal",
+      "sdi": 0.78646394,
+      "n_trials": 10690,
+      "desert_score": 50061.80218457631,
+      "status": "STABLE"
+    },
+    {
+      "location": "South Africa",
+      "sdi": 0.70261336,
+      "n_trials": 15188,
+      "desert_score": 51071.561233863235,
+      "status": "STABLE"
+    },
+    {
+      "location": "Egypt",
+      "sdi": 0.676519583,
+      "n_trials": 17209,
+      "desert_score": 53199.51097589951,
+      "status": "STABLE"
+    },
+    {
+      "location": "Slovakia",
+      "sdi": 0.813141722,
+      "n_trials": 10372,
+      "desert_score": 55507.308027580504,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ireland",
+      "sdi": 0.906907098,
+      "n_trials": 5186,
+      "desert_score": 55707.79171143706,
+      "status": "STABLE"
+    },
+    {
+      "location": "New Zealand non-Maori population",
+      "sdi": 0.884875536,
+      "n_trials": 6529,
+      "desert_score": 56712.53326598548,
+      "status": "STABLE"
+    },
+    {
+      "location": "Mexico",
+      "sdi": 0.693436757,
+      "n_trials": 19142,
+      "desert_score": 62440.623365130356,
+      "status": "STABLE"
+    },
+    {
+      "location": "Bulgaria",
+      "sdi": 0.770862429,
+      "n_trials": 15448,
+      "desert_score": 67418.01410323146,
+      "status": "STABLE"
+    },
+    {
+      "location": "India",
+      "sdi": 0.606982048,
+      "n_trials": 27713,
+      "desert_score": 70513.31841693752,
+      "status": "STABLE"
+    },
+    {
+      "location": "Romania",
+      "sdi": 0.768756849,
+      "n_trials": 16428,
+      "desert_score": 71042.10404439518,
+      "status": "STABLE"
+    },
+    {
+      "location": "Oman",
+      "sdi": 0.781268794,
+      "n_trials": 16428,
+      "desert_score": 75105.88129107382,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ukraine",
+      "sdi": 0.764530545,
+      "n_trials": 18483,
+      "desert_score": 78494.25732161553,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ukraine (without Crimea & Sevastopol)",
+      "sdi": 0.768918379,
+      "n_trials": 18483,
+      "desert_score": 79984.72536247931,
+      "status": "STABLE"
+    },
+    {
+      "location": "Mexico City",
+      "sdi": 0.768181125,
+      "n_trials": 19142,
+      "desert_score": 82573.08638799447,
+      "status": "STABLE"
+    },
+    {
+      "location": "Finland",
+      "sdi": 0.89081503,
+      "n_trials": 10146,
+      "desert_score": 92924.87776209041,
+      "status": "STABLE"
+    },
+    {
+      "location": "Greece",
+      "sdi": 0.831148242,
+      "n_trials": 16152,
+      "desert_score": 95657.8728095577,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brazil Northeast",
+      "sdi": 0.625220305,
+      "n_trials": 36910,
+      "desert_score": 98484.52432875679,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brazil North",
+      "sdi": 0.64329609,
+      "n_trials": 36910,
+      "desert_score": 103475.17634346223,
+      "status": "STABLE"
+    },
+    {
+      "location": "Argentina",
+      "sdi": 0.764786183,
+      "n_trials": 24402,
+      "desert_score": 103743.90544253448,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brazil",
+      "sdi": 0.683949753,
+      "n_trials": 36910,
+      "desert_score": 116785.22747150861,
+      "status": "STABLE"
+    },
+    {
+      "location": "Austria",
+      "sdi": 0.853959728,
+      "n_trials": 17451,
+      "desert_score": 119494.43635691497,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brazil Central-West",
+      "sdi": 0.697106865,
+      "n_trials": 36910,
+      "desert_score": 121858.15960409331,
+      "status": "STABLE"
+    },
+    {
+      "location": "Hungary",
+      "sdi": 0.793609757,
+      "n_trials": 25272,
+      "desert_score": 122447.64878616494,
+      "status": "STABLE"
+    },
+    {
+      "location": "New Mexico",
+      "sdi": 0.848155055,
+      "n_trials": 19142,
+      "desert_score": 126062.80694687412,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brazil South",
+      "sdi": 0.710861349,
+      "n_trials": 36910,
+      "desert_score": 127655.01900067485,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brazil Southeast",
+      "sdi": 0.720419229,
+      "n_trials": 36910,
+      "desert_score": 132019.09364073572,
+      "status": "STABLE"
+    },
+    {
+      "location": "T\u00fcrkiye",
+      "sdi": 0.730952258,
+      "n_trials": 37451,
+      "desert_score": 139198.34341549745,
+      "status": "STABLE"
+    },
+    {
+      "location": "Norway",
+      "sdi": 0.916927776,
+      "n_trials": 11611,
+      "desert_score": 139769.94267088603,
+      "status": "STABLE"
+    },
+    {
+      "location": "Czechia",
+      "sdi": 0.83103434,
+      "n_trials": 27097,
+      "desert_score": 160369.86440891604,
+      "status": "STABLE"
+    },
+    {
+      "location": "Israel",
+      "sdi": 0.840929726,
+      "n_trials": 25568,
+      "desert_score": 160733.99096506622,
+      "status": "STABLE"
+    },
+    {
+      "location": "Indiana",
+      "sdi": 0.855310901,
+      "n_trials": 27713,
+      "desert_score": 191534.81618436583,
+      "status": "STABLE"
+    },
+    {
+      "location": "Taiwan",
+      "sdi": 0.881537661,
+      "n_trials": 27714,
+      "desert_score": 233947.7694814486,
+      "status": "STABLE"
+    },
+    {
+      "location": "Russian Federation",
+      "sdi": 0.822523587,
+      "n_trials": 44056,
+      "desert_score": 248235.80345392943,
+      "status": "STABLE"
+    },
+    {
+      "location": "Sweden",
+      "sdi": 0.910927944,
+      "n_trials": 22123,
+      "desert_score": 248371.94703536207,
+      "status": "STABLE"
+    },
+    {
+      "location": "Denmark",
+      "sdi": 0.915990253,
+      "n_trials": 23465,
+      "desert_score": 279312.8274992749,
+      "status": "STABLE"
+    },
+    {
+      "location": "Australia",
+      "sdi": 0.852886303,
+      "n_trials": 48354,
+      "desert_score": 328684.55455328233,
+      "status": "STABLE"
+    },
+    {
+      "location": "Belgium",
+      "sdi": 0.876976215,
+      "n_trials": 42247,
+      "desert_score": 343405.13881652633,
+      "status": "STABLE"
+    },
+    {
+      "location": "Poland",
+      "sdi": 0.847008286,
+      "n_trials": 56309,
+      "desert_score": 368052.6120727998,
+      "status": "STABLE"
+    },
+    {
+      "location": "Switzerland",
+      "sdi": 0.946050659,
+      "n_trials": 19880,
+      "desert_score": 368493.8424576975,
+      "status": "STABLE"
+    },
+    {
+      "location": "Netherlands",
+      "sdi": 0.908399773,
+      "n_trials": 39831,
+      "desert_score": 434835.1664730751,
+      "status": "STABLE"
+    },
+    {
+      "location": "Italy Islands",
+      "sdi": 0.799196873,
+      "n_trials": 103455,
+      "desert_score": 515206.1200146518,
+      "status": "STABLE"
+    },
+    {
+      "location": "Italy South",
+      "sdi": 0.807328389,
+      "n_trials": 103455,
+      "desert_score": 536949.8879952015,
+      "status": "STABLE"
+    },
+    {
+      "location": "China",
+      "sdi": 0.727553274,
+      "n_trials": 155439,
+      "desert_score": 570529.8875309187,
+      "status": "STABLE"
+    },
+    {
+      "location": "China (without Hong Kong and Macao)",
+      "sdi": 0.726434248,
+      "n_trials": 161760,
+      "desert_score": 591302.0864573347,
+      "status": "STABLE"
+    },
+    {
+      "location": "Spain",
+      "sdi": 0.811819795,
+      "n_trials": 113228,
+      "desert_score": 601699.8437207039,
+      "status": "STABLE"
+    },
+    {
+      "location": "Italy",
+      "sdi": 0.834438992,
+      "n_trials": 103455,
+      "desert_score": 624875.3929881394,
+      "status": "STABLE"
+    },
+    {
+      "location": "Italy Center",
+      "sdi": 0.84600612,
+      "n_trials": 103455,
+      "desert_score": 671812.411849216,
+      "status": "STABLE"
+    },
+    {
+      "location": "Italy North-East",
+      "sdi": 0.84713576,
+      "n_trials": 103455,
+      "desert_score": 676776.9880798956,
+      "status": "STABLE"
+    },
+    {
+      "location": "Italy North-West",
+      "sdi": 0.850180657,
+      "n_trials": 103455,
+      "desert_score": 690531.6620628007,
+      "status": "STABLE"
+    },
+    {
+      "location": "United Kingdom",
+      "sdi": 0.880444683,
+      "n_trials": 96950,
+      "desert_score": 810921.6917463222,
+      "status": "STABLE"
+    },
+    {
+      "location": "Japan",
+      "sdi": 0.875884075,
+      "n_trials": 107769,
+      "desert_score": 868293.089006674,
+      "status": "STABLE"
+    },
+    {
+      "location": "Canada",
+      "sdi": 0.887304675,
+      "n_trials": 102897,
+      "desert_score": 913054.7332703865,
+      "status": "STABLE"
+    },
+    {
+      "location": "Hong Kong Special Administrative Region of China",
+      "sdi": 0.849388579,
+      "n_trials": 161760,
+      "desert_score": 1074022.1346998496,
+      "status": "STABLE"
+    },
+    {
+      "location": "Macao Special Administrative Region of China",
+      "sdi": 0.868782349,
+      "n_trials": 155439,
+      "desert_score": 1184589.105939269,
+      "status": "STABLE"
+    },
+    {
+      "location": "Germany",
+      "sdi": 0.878636199,
+      "n_trials": 167002,
+      "desert_score": 1376044.5741345524,
+      "status": "STABLE"
+    },
+    {
+      "location": "France",
+      "sdi": 0.86109871,
+      "n_trials": 195281,
+      "desert_score": 1405897.669196667,
+      "status": "STABLE"
+    },
+    {
+      "location": "United States Virgin Islands",
+      "sdi": 0.816423321,
+      "n_trials": 1455666,
+      "desert_score": 7929471.2549356725,
+      "status": "STABLE"
+    },
+    {
+      "location": "United States of America",
+      "sdi": 0.876475276,
+      "n_trials": 1455659,
+      "desert_score": 11784353.380312465,
+      "status": "STABLE"
+    }
+  ]
+}

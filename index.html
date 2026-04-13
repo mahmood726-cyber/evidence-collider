@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evidence Collider v1</title>
+    <style>
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: #020617; color: #f8fafc; padding: 40px; }
+        .container { max-width: 1200px; margin: auto; }
+        .header { border-bottom: 1px solid #1e293b; padding-bottom: 20px; margin-bottom: 40px; }
+        .desert-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+        .desert-card { background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; position: relative; }
+        .desert-card.DESERT { border-left: 4px solid #ef4444; background: linear-gradient(to right, #1e1b1b, #0f172a); }
+        .status-badge { position: absolute; top: 15px; right: 15px; font-size: 0.65rem; font-weight: bold; padding: 2px 6px; border-radius: 4px; }
+        .badge-red { background: #ef4444; color: white; }
+        .badge-green { background: #10b981; color: white; }
+        .loc-name { font-size: 1.1rem; font-weight: bold; margin-bottom: 10px; display: block; }
+        .stat-line { font-size: 0.85rem; color: #94a3b8; margin-bottom: 5px; }
+        .score-val { font-size: 1.5rem; font-weight: bold; color: #3b82f6; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Evidence <span style="color:#3b82f6">Collider</span></h1>
+            <p style="color: #64748b; font-size: 0.9rem;">Mapping Clinical Trial Density (AACT) vs. Global Burden (IHME SDI)</p>
+        </div>
+
+        <div id="collider-results" class="desert-grid">
+            <p>Colliding datasets... please wait.</p>
+        </div>
+    </div>
+    <script>
+        async function loadResults() {
+            try {
+                const resp = await fetch('data/collider_results.json');
+                const data = await resp.json();
+                renderUI(data);
+            } catch (err) {
+                document.getElementById('collider-results').innerHTML = `<p style="color:#ef4444">ERROR: ${err.message}</p>`;
+            }
+        }
+
+        function renderUI(data) {
+            const grid = document.getElementById('collider-results');
+            
+            grid.innerHTML = data.deserts.slice(0, 50).map(d => `
+                <div class="desert-card ${d.status}">
+                    <span class="status-badge ${d.status === 'DESERT' ? 'badge-red' : 'badge-green'}">${d.status}</span>
+                    <span class="loc-name">${String(d.location ?? "UNKNOWN").toUpperCase()}</span>
+                    <div class="stat-line">IHME SDI: ${d.sdi.toFixed(3)}</div>
+                    <div class="stat-line">AACT Trials: ${d.n_trials}</div>
+                    <div class="score-val">${d.desert_score.toFixed(2)}</div>
+                    <div style="font-size: 0.6rem; color: #475569;">Coverage-to-Burden Ratio</div>
+                </div>
+            `).join('');
+        }
+
+        loadResults();
+    </script>
+</body>
+</html>
