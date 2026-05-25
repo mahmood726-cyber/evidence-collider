@@ -1,0 +1,42 @@
+# Evidence Collider
+
+Maps clinical trial density (from the AACT ClinicalTrials.gov mirror) against global disease burden (IHME SDI) to surface "research deserts" — geographies where burden is high but trial activity is low.
+
+## Run
+
+Open `index.html` in any modern browser. The page fetches `data/collider_results.json` (pre-computed) and renders the desert/non-desert grid.
+
+For local development:
+
+```bash
+python -m http.server 8000
+# then open http://localhost:8000/
+```
+
+## Test
+
+```bash
+python -m pytest -q
+```
+
+Tests live under `tests/`. The collider pipeline core lives in `core/`.
+
+## Data
+
+`data/collider_results.json` is a pre-computed snapshot. Regenerating it requires:
+
+- An AACT (ClinicalTrials.gov AACT mirror) snapshot — see `~/.claude/rules/lessons.md` "CT.gov / AACT Queries" for path-discovery conventions (the snapshot may live on `C:`, `D:`, or `F:` — don't hardcode).
+- The IHME GBD SDI tables for the year being analysed.
+
+## Repo layout
+
+| Path | Purpose |
+|---|---|
+| `index.html` | the dashboard |
+| `core/` | pipeline (AACT query + SDI join + desert classifier) |
+| `data/` | pre-computed collider output JSON |
+| `tests/` | pytest unit tests |
+
+## License
+
+See `LICENSE` (MIT).
