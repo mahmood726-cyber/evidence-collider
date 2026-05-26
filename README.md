@@ -8,6 +8,12 @@ Maps clinical trial density (from the AACT ClinicalTrials.gov mirror) against gl
 
 Open `index.html` in any modern browser. The page fetches `data/collider_results.json` (pre-computed) and renders the desert/non-desert grid.
 
+To regenerate the JSON from source data:
+
+```bash
+python core/collider.py
+```
+
 For local development:
 
 ```bash
@@ -27,8 +33,13 @@ Tests live under `tests/`. The collider pipeline core lives in `core/`.
 
 `data/collider_results.json` is a pre-computed snapshot. Regenerating it requires:
 
-- An AACT (ClinicalTrials.gov AACT mirror) snapshot — see `~/.claude/rules/lessons.md` "CT.gov / AACT Queries" for path-discovery conventions (the snapshot may live on `C:`, `D:`, or `F:` — don't hardcode).
+- An AACT (ClinicalTrials.gov AACT mirror) snapshot.
 - The IHME GBD SDI tables for the year being analysed.
+
+The pipeline auto-discovers common `C:`, `D:`, and `F:` workspace locations for both inputs. If your layout differs, set:
+
+- `EVIDENCE_COLLIDER_AACT_PATH`
+- `EVIDENCE_COLLIDER_SDI_PATH`
 
 ## Repo layout
 

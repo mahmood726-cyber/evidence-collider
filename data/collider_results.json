@@ -1,10 +1,10 @@
 {
   "audit": {
     "methodology": "Evidence Collider v1 (GSP-Hardened)",
-    "timestamp": "2026-04-13T01:16:14.644936",
+    "timestamp": "2026-05-26T11:14:09.147260",
     "n_locations": 1005,
     "sources": [
-      "AACT-Subset-C",
+      "AACT-facilities",
       "IHME-SDI-2023"
     ]
   },
@@ -5701,13 +5701,6 @@
       "status": "STABLE"
     },
     {
-      "location": "Yemen",
-      "sdi": 0.446393545,
-      "n_trials": 20,
-      "desert_score": 36.126746384102994,
-      "status": "STABLE"
-    },
-    {
       "location": "Central",
       "sdi": 0.609649404,
       "n_trials": 15,
@@ -5736,10 +5729,10 @@
       "status": "STABLE"
     },
     {
-      "location": "Tajikistan",
-      "sdi": 0.551182019,
-      "n_trials": 24,
-      "desert_score": 53.47379340992271,
+      "location": "Yemen",
+      "sdi": 0.446393545,
+      "n_trials": 23,
+      "desert_score": 41.54575834171845,
       "status": "STABLE"
     },
     {
@@ -5750,10 +5743,17 @@
       "status": "STABLE"
     },
     {
+      "location": "Tajikistan",
+      "sdi": 0.551182019,
+      "n_trials": 25,
+      "desert_score": 55.70186813533616,
+      "status": "STABLE"
+    },
+    {
       "location": "Fiji",
       "sdi": 0.686418864,
-      "n_trials": 17,
-      "desert_score": 54.212444700687456,
+      "n_trials": 18,
+      "desert_score": 57.401412036022016,
       "status": "STABLE"
     },
     {
@@ -5768,20 +5768,6 @@
       "sdi": 0.743030595,
       "n_trials": 16,
       "desert_score": 62.26422166395092,
-      "status": "STABLE"
-    },
-    {
-      "location": "Afghanistan",
-      "sdi": 0.333711266,
-      "n_trials": 49,
-      "desert_score": 73.54169069988482,
-      "status": "STABLE"
-    },
-    {
-      "location": "Andorra",
-      "sdi": 0.879855839,
-      "n_trials": 9,
-      "desert_score": 74.91000742440573,
       "status": "STABLE"
     },
     {
@@ -5813,17 +5799,31 @@
       "status": "STABLE"
     },
     {
+      "location": "Afghanistan",
+      "sdi": 0.333711266,
+      "n_trials": 53,
+      "desert_score": 79.54509402232439,
+      "status": "STABLE"
+    },
+    {
+      "location": "Andorra",
+      "sdi": 0.879855839,
+      "n_trials": 10,
+      "desert_score": 83.23334158267303,
+      "status": "STABLE"
+    },
+    {
       "location": "Liberia",
       "sdi": 0.38302106,
-      "n_trials": 50,
-      "desert_score": 81.04004326613806,
+      "n_trials": 54,
+      "desert_score": 87.5232467274291,
       "status": "STABLE"
     },
     {
       "location": "Azerbaijan",
       "sdi": 0.705297926,
-      "n_trials": 32,
-      "desert_score": 108.58423748026141,
+      "n_trials": 33,
+      "desert_score": 111.97749490151958,
       "status": "STABLE"
     },
     {
@@ -5843,8 +5843,8 @@
     {
       "location": "Madagascar",
       "sdi": 0.379987683,
-      "n_trials": 76,
-      "desert_score": 122.5782099869835,
+      "n_trials": 77,
+      "desert_score": 124.19108117102274,
       "status": "STABLE"
     },
     {
@@ -5871,8 +5871,8 @@
     {
       "location": "Equatorial Guinea",
       "sdi": 0.646241526,
-      "n_trials": 57,
-      "desert_score": 161.12688224646544,
+      "n_trials": 58,
+      "desert_score": 163.95366965429815,
       "status": "STABLE"
     },
     {
@@ -5897,31 +5897,31 @@
       "status": "STABLE"
     },
     {
-      "location": "Guam",
-      "sdi": 0.811868521,
-      "n_trials": 33,
-      "desert_score": 175.40924122782803,
-      "status": "STABLE"
-    },
-    {
-      "location": "Papua New Guinea",
-      "sdi": 0.43671418,
-      "n_trials": 99,
-      "desert_score": 175.754468632682,
-      "status": "STABLE"
-    },
-    {
       "location": "Gambia",
       "sdi": 0.432615004,
-      "n_trials": 100,
-      "desert_score": 176.247170241307,
+      "n_trials": 101,
+      "desert_score": 178.00964194372008,
+      "status": "STABLE"
+    },
+    {
+      "location": "Guam",
+      "sdi": 0.811868521,
+      "n_trials": 34,
+      "desert_score": 180.72467278018647,
       "status": "STABLE"
     },
     {
       "location": "Sierra Leone",
       "sdi": 0.383229086,
-      "n_trials": 110,
-      "desert_score": 178.34822862960945,
+      "n_trials": 112,
+      "desert_score": 181.59092369560236,
+      "status": "STABLE"
+    },
+    {
+      "location": "Papua New Guinea",
+      "sdi": 0.43671418,
+      "n_trials": 103,
+      "desert_score": 182.85565928450754,
       "status": "STABLE"
     },
     {
@@ -5941,8 +5941,8 @@
     {
       "location": "Guinea-Bissau",
       "sdi": 0.373341963,
-      "n_trials": 128,
-      "desert_score": 204.25813190292521,
+      "n_trials": 130,
+      "desert_score": 207.44966521390842,
       "status": "STABLE"
     },
     {
@@ -5953,17 +5953,17 @@
       "status": "STABLE"
     },
     {
-      "location": "Eswatini",
-      "sdi": 0.606902305,
-      "n_trials": 91,
-      "desert_score": 231.4946160568317,
-      "status": "STABLE"
-    },
-    {
       "location": "Gabon",
       "sdi": 0.631085776,
       "n_trials": 86,
       "desert_score": 233.11651972705818,
+      "status": "STABLE"
+    },
+    {
+      "location": "Eswatini",
+      "sdi": 0.606902305,
+      "n_trials": 92,
+      "desert_score": 234.0385129365771,
       "status": "STABLE"
     },
     {
@@ -5976,22 +5976,22 @@
     {
       "location": "El Salvador",
       "sdi": 0.608140065,
-      "n_trials": 104,
-      "desert_score": 265.40095244353034,
-      "status": "STABLE"
-    },
-    {
-      "location": "Guinea",
-      "sdi": 0.355150968,
-      "n_trials": 176,
-      "desert_score": 272.93209920288257,
+      "n_trials": 107,
+      "desert_score": 273.05674914863215,
       "status": "STABLE"
     },
     {
       "location": "Bolivia (Plurinational State of)",
       "sdi": 0.631803304,
-      "n_trials": 102,
-      "desert_score": 277.0258426553002,
+      "n_trials": 103,
+      "desert_score": 279.7417822891757,
+      "status": "STABLE"
+    },
+    {
+      "location": "Guinea",
+      "sdi": 0.355150968,
+      "n_trials": 181,
+      "desert_score": 280.6858520211463,
       "status": "STABLE"
     },
     {
@@ -6002,20 +6002,6 @@
       "status": "STABLE"
     },
     {
-      "location": "Senegal",
-      "sdi": 0.412747283,
-      "n_trials": 169,
-      "desert_score": 287.78070339897965,
-      "status": "STABLE"
-    },
-    {
-      "location": "Uzbekistan",
-      "sdi": 0.632090937,
-      "n_trials": 106,
-      "desert_score": 288.1146746069382,
-      "status": "STABLE"
-    },
-    {
       "location": "Cuba",
       "sdi": 0.694880527,
       "n_trials": 89,
@@ -6023,10 +6009,24 @@
       "status": "STABLE"
     },
     {
+      "location": "Senegal",
+      "sdi": 0.412747283,
+      "n_trials": 172,
+      "desert_score": 292.88923659541126,
+      "status": "STABLE"
+    },
+    {
+      "location": "Uzbekistan",
+      "sdi": 0.632090937,
+      "n_trials": 110,
+      "desert_score": 298.9869264788981,
+      "status": "STABLE"
+    },
+    {
       "location": "Jamaica",
       "sdi": 0.691833531,
-      "n_trials": 92,
-      "desert_score": 298.5399426118161,
+      "n_trials": 93,
+      "desert_score": 301.7849419880315,
       "status": "STABLE"
     },
     {
@@ -6037,45 +6037,45 @@
       "status": "STABLE"
     },
     {
-      "location": "Albania",
-      "sdi": 0.706767038,
-      "n_trials": 101,
-      "desert_score": 344.43603910244025,
+      "location": "Somalia",
+      "sdi": 0.229019065,
+      "n_trials": 272,
+      "desert_score": 352.79731004596147,
       "status": "STABLE"
     },
     {
-      "location": "Somalia",
-      "sdi": 0.229019065,
-      "n_trials": 271,
-      "desert_score": 351.500261111969,
+      "location": "Albania",
+      "sdi": 0.706767038,
+      "n_trials": 104,
+      "desert_score": 354.6668125411266,
       "status": "STABLE"
     },
     {
       "location": "Paraguay",
       "sdi": 0.674088962,
-      "n_trials": 115,
-      "desert_score": 352.85702709066976,
+      "n_trials": 118,
+      "desert_score": 362.0619930147742,
       "status": "STABLE"
     },
     {
       "location": "Honduras",
       "sdi": 0.520269472,
-      "n_trials": 175,
-      "desert_score": 364.7881253108853,
+      "n_trials": 180,
+      "desert_score": 375.2106431769106,
       "status": "STABLE"
     },
     {
       "location": "Mali",
       "sdi": 0.284970766,
-      "n_trials": 271,
-      "desert_score": 379.00548267946687,
+      "n_trials": 272,
+      "desert_score": 380.40402689599625,
       "status": "STABLE"
     },
     {
       "location": "Somali",
       "sdi": 0.302088712,
-      "n_trials": 271,
-      "desert_score": 388.30149994818515,
+      "n_trials": 272,
+      "desert_score": 389.7343468114626,
       "status": "STABLE"
     },
     {
@@ -6102,15 +6102,15 @@
     {
       "location": "Rwanda",
       "sdi": 0.462112705,
-      "n_trials": 247,
-      "desert_score": 459.2040047238513,
+      "n_trials": 249,
+      "desert_score": 462.9222557742469,
       "status": "STABLE"
     },
     {
       "location": "Mozambique",
       "sdi": 0.341791325,
-      "n_trials": 307,
-      "desert_score": 466.4174320603694,
+      "n_trials": 306,
+      "desert_score": 464.89815703737145,
       "status": "STABLE"
     },
     {
@@ -6123,29 +6123,22 @@
     {
       "location": "Democratic Republic of the Congo",
       "sdi": 0.395104186,
-      "n_trials": 361,
-      "desert_score": 596.796988150955,
+      "n_trials": 363,
+      "desert_score": 600.1033426559464,
       "status": "STABLE"
     },
     {
       "location": "Botswana",
       "sdi": 0.677582005,
-      "n_trials": 197,
-      "desert_score": 611.0080795549243,
+      "n_trials": 199,
+      "desert_score": 617.2112072661417,
       "status": "STABLE"
     },
     {
       "location": "Uruguay",
       "sdi": 0.745444259,
-      "n_trials": 157,
-      "desert_score": 616.7607900790731,
-      "status": "STABLE"
-    },
-    {
-      "location": "Ethiopia (Sahel)",
-      "sdi": 0.302088712,
-      "n_trials": 450,
-      "desert_score": 644.7810884748462,
+      "n_trials": 159,
+      "desert_score": 624.6176154303989,
       "status": "STABLE"
     },
     {
@@ -6156,122 +6149,122 @@
       "status": "STABLE"
     },
     {
+      "location": "Ethiopia (Sahel)",
+      "sdi": 0.302088712,
+      "n_trials": 469,
+      "desert_score": 672.0051788771175,
+      "status": "STABLE"
+    },
+    {
       "location": "Syrian Arab Republic",
       "sdi": 0.58868192,
-      "n_trials": 292,
-      "desert_score": 709.9128730957042,
+      "n_trials": 298,
+      "desert_score": 724.5001239127391,
       "status": "STABLE"
     },
     {
       "location": "Armenia",
       "sdi": 0.717334917,
-      "n_trials": 205,
-      "desert_score": 725.2399120250589,
-      "status": "STABLE"
-    },
-    {
-      "location": "Ethiopia",
-      "sdi": 0.393767735,
-      "n_trials": 450,
-      "desert_score": 742.2897557683951,
+      "n_trials": 206,
+      "desert_score": 728.7776676934739,
       "status": "STABLE"
     },
     {
       "location": "Zimbabwe",
       "sdi": 0.491184885,
-      "n_trials": 389,
-      "desert_score": 764.5213132545166,
+      "n_trials": 391,
+      "desert_score": 768.4520140938714,
+      "status": "STABLE"
+    },
+    {
+      "location": "Ethiopia",
+      "sdi": 0.393767735,
+      "n_trials": 469,
+      "desert_score": 773.6308787897274,
       "status": "STABLE"
     },
     {
       "location": "Congo",
       "sdi": 0.57784943,
-      "n_trials": 361,
-      "desert_score": 855.1451201747411,
+      "n_trials": 363,
+      "desert_score": 859.882766269892,
       "status": "STABLE"
     },
     {
       "location": "Morocco",
       "sdi": 0.612385219,
-      "n_trials": 332,
-      "desert_score": 856.5204842236084,
+      "n_trials": 335,
+      "desert_score": 864.2601271533398,
       "status": "STABLE"
     },
     {
       "location": "Venezuela (Bolivarian Republic of)",
       "sdi": 0.580213457,
-      "n_trials": 386,
-      "desert_score": 919.5149447848034,
-      "status": "STABLE"
-    },
-    {
-      "location": "Sri Lanka",
-      "sdi": 0.730697976,
-      "n_trials": 254,
-      "desert_score": 943.1789487986993,
+      "n_trials": 387,
+      "desert_score": 921.8971078541941,
       "status": "STABLE"
     },
     {
       "location": "Zambia",
       "sdi": 0.505571537,
-      "n_trials": 484,
-      "desert_score": 978.9080445842156,
+      "n_trials": 486,
+      "desert_score": 982.9531191486132,
       "status": "STABLE"
     },
     {
       "location": "Edo",
       "sdi": 0.625916631,
-      "n_trials": 371,
-      "desert_score": 991.757534938219,
+      "n_trials": 372,
+      "desert_score": 994.4307358410175,
+      "status": "STABLE"
+    },
+    {
+      "location": "Sri Lanka",
+      "sdi": 0.730697976,
+      "n_trials": 271,
+      "desert_score": 1006.3050989151476,
       "status": "STABLE"
     },
     {
       "location": "Malawi",
       "sdi": 0.409532838,
-      "n_trials": 613,
-      "desert_score": 1038.161034764172,
-      "status": "STABLE"
-    },
-    {
-      "location": "Algeria",
-      "sdi": 0.657757116,
-      "n_trials": 370,
-      "desert_score": 1081.1035588745494,
+      "n_trials": 615,
+      "desert_score": 1041.5481833278398,
       "status": "STABLE"
     },
     {
       "location": "Ghana",
       "sdi": 0.573769063,
-      "n_trials": 462,
-      "desert_score": 1083.9194431623532,
+      "n_trials": 464,
+      "desert_score": 1088.6117351240948,
       "status": "STABLE"
     },
     {
       "location": "Dominican Republic",
       "sdi": 0.658091059,
-      "n_trials": 381,
-      "desert_score": 1114.3317831181455,
+      "n_trials": 380,
+      "desert_score": 1111.4070277818773,
+      "status": "STABLE"
+    },
+    {
+      "location": "Algeria",
+      "sdi": 0.657757116,
+      "n_trials": 414,
+      "desert_score": 1209.6672253353067,
       "status": "STABLE"
     },
     {
       "location": "Ecuador",
       "sdi": 0.690996593,
-      "n_trials": 369,
-      "desert_score": 1194.1615902007964,
+      "n_trials": 377,
+      "desert_score": 1220.0512723731713,
       "status": "STABLE"
     },
     {
       "location": "Niger",
       "sdi": 0.203013134,
-      "n_trials": 980,
-      "desert_score": 1229.631304710907,
-      "status": "STABLE"
-    },
-    {
-      "location": "Nepal",
-      "sdi": 0.471006784,
-      "n_trials": 665,
-      "desert_score": 1257.1049680045228,
+      "n_trials": 989,
+      "desert_score": 1240.9238371011093,
       "status": "STABLE"
     },
     {
@@ -6282,766 +6275,773 @@
       "status": "STABLE"
     },
     {
-      "location": "Iraq",
-      "sdi": 0.653812815,
-      "n_trials": 462,
-      "desert_score": 1334.5381339478126,
+      "location": "Nepal",
+      "sdi": 0.471006784,
+      "n_trials": 675,
+      "desert_score": 1276.0088021098538,
       "status": "STABLE"
     },
     {
-      "location": "Costa Rica",
-      "sdi": 0.71538598,
-      "n_trials": 414,
-      "desert_score": 1454.601568308335,
+      "location": "Iraq",
+      "sdi": 0.653812815,
+      "n_trials": 490,
+      "desert_score": 1415.4192329749528,
       "status": "STABLE"
     },
     {
       "location": "North Macedonia",
       "sdi": 0.758480094,
-      "n_trials": 352,
-      "desert_score": 1457.436803798095,
+      "n_trials": 353,
+      "desert_score": 1461.5772492634305,
+      "status": "STABLE"
+    },
+    {
+      "location": "Costa Rica",
+      "sdi": 0.71538598,
+      "n_trials": 424,
+      "desert_score": 1489.7368718906619,
       "status": "STABLE"
     },
     {
       "location": "United Republic of Tanzania",
       "sdi": 0.465888633,
-      "n_trials": 800,
-      "desert_score": 1497.8149675856243,
+      "n_trials": 807,
+      "desert_score": 1510.9208485519987,
       "status": "STABLE"
     },
     {
       "location": "Dominica",
       "sdi": 0.75366422,
-      "n_trials": 381,
-      "desert_score": 1546.6693463910644,
+      "n_trials": 380,
+      "desert_score": 1542.6098467942375,
       "status": "STABLE"
     },
     {
       "location": "Niger",
       "sdi": 0.425816102,
-      "n_trials": 980,
-      "desert_score": 1706.770258174887,
+      "n_trials": 989,
+      "desert_score": 1722.4446789132278,
       "status": "STABLE"
     },
     {
       "location": "Nigeria (Sahel)",
       "sdi": 0.432012673,
-      "n_trials": 980,
-      "desert_score": 1725.3906086314157,
-      "status": "STABLE"
-    },
-    {
-      "location": "Kazakhstan",
-      "sdi": 0.727191018,
-      "n_trials": 471,
-      "desert_score": 1726.4827439858693,
-      "status": "STABLE"
-    },
-    {
-      "location": "Republic of Moldova",
-      "sdi": 0.733718614,
-      "n_trials": 486,
-      "desert_score": 1825.1369617607684,
+      "n_trials": 989,
+      "desert_score": 1741.2360325882348,
       "status": "STABLE"
     },
     {
       "location": "Qatar",
       "sdi": 0.859589918,
-      "n_trials": 257,
-      "desert_score": 1830.352893155953,
+      "n_trials": 260,
+      "desert_score": 1851.7188802355945,
+      "status": "STABLE"
+    },
+    {
+      "location": "Kazakhstan",
+      "sdi": 0.727191018,
+      "n_trials": 510,
+      "desert_score": 1869.4399138700496,
+      "status": "STABLE"
+    },
+    {
+      "location": "Republic of Moldova",
+      "sdi": 0.733718614,
+      "n_trials": 499,
+      "desert_score": 1873.9574977749453,
       "status": "STABLE"
     },
     {
       "location": "Bangladesh",
       "sdi": 0.517107282,
-      "n_trials": 942,
-      "desert_score": 1950.7438499102104,
+      "n_trials": 968,
+      "desert_score": 2004.5860368504075,
       "status": "STABLE"
     },
     {
       "location": "Luxembourg",
       "sdi": 0.89475691,
-      "n_trials": 211,
-      "desert_score": 2004.882218865978,
+      "n_trials": 212,
+      "desert_score": 2014.3840303297977,
       "status": "STABLE"
     },
     {
       "location": "Nigeria",
       "sdi": 0.511952631,
-      "n_trials": 980,
-      "desert_score": 2008.001808937525,
-      "status": "STABLE"
-    },
-    {
-      "location": "Panama",
-      "sdi": 0.71530692,
-      "n_trials": 576,
-      "desert_score": 2023.23147368976,
+      "n_trials": 989,
+      "desert_score": 2026.4426418767473,
       "status": "STABLE"
     },
     {
       "location": "Guatemala",
       "sdi": 0.553757769,
-      "n_trials": 906,
-      "desert_score": 2030.2874467230133,
+      "n_trials": 905,
+      "desert_score": 2028.0465113513544,
+      "status": "STABLE"
+    },
+    {
+      "location": "Panama",
+      "sdi": 0.71530692,
+      "n_trials": 578,
+      "desert_score": 2030.256582973405,
       "status": "STABLE"
     },
     {
       "location": "Kuwait",
       "sdi": 0.877142895,
-      "n_trials": 256,
-      "desert_score": 2083.721570613501,
+      "n_trials": 257,
+      "desert_score": 2091.86110799871,
       "status": "STABLE"
     },
     {
       "location": "Cyprus",
       "sdi": 0.855816058,
-      "n_trials": 330,
-      "desert_score": 2288.743081883042,
+      "n_trials": 337,
+      "desert_score": 2337.292177559349,
       "status": "STABLE"
     },
     {
       "location": "Iceland",
       "sdi": 0.888965507,
-      "n_trials": 266,
-      "desert_score": 2395.6519507900557,
+      "n_trials": 269,
+      "desert_score": 2422.6705818140035,
       "status": "STABLE"
     },
     {
       "location": "Uganda",
       "sdi": 0.442281237,
-      "n_trials": 1399,
-      "desert_score": 2508.432730905194,
+      "n_trials": 1423,
+      "desert_score": 2551.4651723217235,
       "status": "STABLE"
     },
     {
       "location": "Bosnia and Herzegovina",
       "sdi": 0.712915296,
-      "n_trials": 738,
-      "desert_score": 2570.6698735956797,
+      "n_trials": 741,
+      "desert_score": 2581.1197511306214,
       "status": "STABLE"
     },
     {
       "location": "Jordan",
       "sdi": 0.72035157,
-      "n_trials": 778,
-      "desert_score": 2782.064607771242,
+      "n_trials": 793,
+      "desert_score": 2835.703385556035,
       "status": "STABLE"
     },
     {
       "location": "Tunisia",
       "sdi": 0.683722134,
-      "n_trials": 1060,
-      "desert_score": 3351.483343019811,
+      "n_trials": 1074,
+      "desert_score": 3395.7482173615817,
       "status": "STABLE"
     },
     {
       "location": "Kenya",
       "sdi": 0.548710797,
-      "n_trials": 1554,
-      "desert_score": 3443.4681559524333,
+      "n_trials": 1577,
+      "desert_score": 3494.4332573597085,
       "status": "STABLE"
     },
     {
       "location": "Lebanon",
       "sdi": 0.723671502,
-      "n_trials": 1264,
-      "desert_score": 4574.26580570265,
+      "n_trials": 1272,
+      "desert_score": 4603.216855105832,
       "status": "STABLE"
     },
     {
       "location": "Belarus",
       "sdi": 0.803625792,
-      "n_trials": 927,
-      "desert_score": 4720.579188932702,
+      "n_trials": 934,
+      "desert_score": 4756.2254179753445,
       "status": "STABLE"
     },
     {
       "location": "Biliran",
       "sdi": 0.634341092,
-      "n_trials": 1826,
-      "desert_score": 4993.724915627182,
-      "status": "STABLE"
-    },
-    {
-      "location": "United Arab Emirates",
-      "sdi": 0.862209546,
-      "n_trials": 882,
-      "desert_score": 6401.023973401651,
+      "n_trials": 1832,
+      "desert_score": 5010.133650289703,
       "status": "STABLE"
     },
     {
       "location": "Iran (Islamic Republic of)",
       "sdi": 0.717585049,
-      "n_trials": 1826,
-      "desert_score": 6465.663354180684,
+      "n_trials": 1832,
+      "desert_score": 6486.908688312712,
+      "status": "STABLE"
+    },
+    {
+      "location": "United Arab Emirates",
+      "sdi": 0.862209546,
+      "n_trials": 896,
+      "desert_score": 6502.627528535011,
       "status": "STABLE"
     },
     {
       "location": "Abia",
       "sdi": 0.634387716,
-      "n_trials": 2514,
-      "desert_score": 6876.136577819104,
+      "n_trials": 2546,
+      "desert_score": 6963.660989310834,
       "status": "STABLE"
     },
     {
       "location": "Indonesia",
       "sdi": 0.665731524,
-      "n_trials": 2480,
-      "desert_score": 7419.186005616879,
+      "n_trials": 2536,
+      "desert_score": 7586.716012195325,
       "status": "STABLE"
     },
     {
       "location": "Pakistan",
       "sdi": 0.512722944,
-      "n_trials": 5908,
-      "desert_score": 12124.519154022199,
+      "n_trials": 6161,
+      "desert_score": 12643.730959365397,
       "status": "STABLE"
     },
     {
       "location": "Georgia",
       "sdi": 0.754633377,
-      "n_trials": 3254,
-      "desert_score": 13261.787438276888,
+      "n_trials": 3328,
+      "desert_score": 13563.376949780419,
       "status": "STABLE"
     },
     {
       "location": "Peru",
       "sdi": 0.685607664,
-      "n_trials": 4273,
-      "desert_score": 13591.298226305584,
+      "n_trials": 4307,
+      "desert_score": 13699.44335611939,
       "status": "STABLE"
     },
     {
       "location": "Slovenia",
       "sdi": 0.844865839,
-      "n_trials": 2228,
-      "desert_score": 14361.762645970823,
+      "n_trials": 2296,
+      "desert_score": 14800.092924214097,
       "status": "STABLE"
     },
     {
       "location": "Saudi Arabia",
       "sdi": 0.828451182,
-      "n_trials": 2514,
-      "desert_score": 14654.720608652215,
+      "n_trials": 2546,
+      "desert_score": 14841.25643183315,
       "status": "STABLE"
     },
     {
       "location": "Philippines",
       "sdi": 0.669416191,
-      "n_trials": 5111,
-      "desert_score": 15460.52728327644,
+      "n_trials": 5139,
+      "desert_score": 15545.225926190105,
       "status": "STABLE"
     },
     {
       "location": "Croatia",
       "sdi": 0.782133463,
-      "n_trials": 3944,
-      "desert_score": 18102.82594334217,
+      "n_trials": 3966,
+      "desert_score": 18203.805195561625,
       "status": "STABLE"
     },
     {
       "location": "Estonia",
       "sdi": 0.854860197,
-      "n_trials": 2842,
-      "desert_score": 19581.120680189215,
+      "n_trials": 2857,
+      "desert_score": 19684.46931150619,
       "status": "STABLE"
     },
     {
       "location": "Colombia",
       "sdi": 0.688855489,
-      "n_trials": 6525,
-      "desert_score": 20970.962903802934,
+      "n_trials": 6572,
+      "desert_score": 21122.018115523813,
       "status": "STABLE"
     },
     {
       "location": "Latvia",
       "sdi": 0.8508436,
-      "n_trials": 3260,
-      "desert_score": 21856.252884987673,
+      "n_trials": 3282,
+      "desert_score": 22003.749070101087,
       "status": "STABLE"
     },
     {
       "location": "Georgia",
       "sdi": 0.8629828,
-      "n_trials": 3254,
-      "desert_score": 23748.843193592606,
+      "n_trials": 3328,
+      "desert_score": 24288.921373164165,
       "status": "STABLE"
     },
     {
       "location": "Lithuania",
       "sdi": 0.856187639,
-      "n_trials": 3575,
-      "desert_score": 24858.781071775327,
+      "n_trials": 3595,
+      "desert_score": 24997.85117567337,
       "status": "STABLE"
     },
     {
       "location": "Serbia",
       "sdi": 0.784525117,
-      "n_trials": 5767,
-      "desert_score": 26764.140288794526,
+      "n_trials": 5813,
+      "desert_score": 26977.622247054376,
       "status": "STABLE"
     },
     {
       "location": "Malaysia",
       "sdi": 0.770371353,
-      "n_trials": 6728,
-      "desert_score": 29299.48020409689,
+      "n_trials": 6815,
+      "desert_score": 29678.35279294297,
       "status": "STABLE"
     },
     {
       "location": "Thailand",
       "sdi": 0.68718778,
-      "n_trials": 9446,
-      "desert_score": 30197.03001685899,
+      "n_trials": 9544,
+      "desert_score": 30510.317010470273,
       "status": "STABLE"
     },
     {
       "location": "New Zealand Maori population",
       "sdi": 0.796187558,
-      "n_trials": 6529,
-      "desert_score": 32034.354393322872,
+      "n_trials": 6613,
+      "desert_score": 32446.498024665976,
       "status": "STABLE"
     },
     {
       "location": "Puerto Rico",
       "sdi": 0.847508564,
-      "n_trials": 5378,
-      "desert_score": 35267.55428070887,
+      "n_trials": 5432,
+      "desert_score": 35621.672527484305,
       "status": "STABLE"
     },
     {
       "location": "Chile",
       "sdi": 0.788533125,
-      "n_trials": 7679,
-      "desert_score": 36313.01591026347,
+      "n_trials": 7750,
+      "desert_score": 36648.76589458808,
       "status": "STABLE"
     },
     {
       "location": "Northern Ireland",
       "sdi": 0.864426949,
-      "n_trials": 5186,
-      "desert_score": 38252.43997920172,
+      "n_trials": 5266,
+      "desert_score": 38842.52775365913,
       "status": "STABLE"
     },
     {
       "location": "Singapore",
       "sdi": 0.869993868,
-      "n_trials": 5776,
-      "desert_score": 44428.673530238804,
+      "n_trials": 5843,
+      "desert_score": 44944.0338360778,
       "status": "STABLE"
     },
     {
       "location": "New Zealand",
       "sdi": 0.866430611,
-      "n_trials": 6529,
-      "desert_score": 48880.96025588544,
+      "n_trials": 6613,
+      "desert_score": 49509.846863558036,
       "status": "STABLE"
     },
     {
       "location": "Portugal",
       "sdi": 0.78646394,
-      "n_trials": 10690,
-      "desert_score": 50061.80218457631,
+      "n_trials": 10818,
+      "desert_score": 50661.23255685187,
       "status": "STABLE"
     },
     {
       "location": "South Africa",
       "sdi": 0.70261336,
-      "n_trials": 15188,
-      "desert_score": 51071.561233863235,
+      "n_trials": 15273,
+      "desert_score": 51357.3844301286,
       "status": "STABLE"
     },
     {
       "location": "Egypt",
       "sdi": 0.676519583,
-      "n_trials": 17209,
-      "desert_score": 53199.51097589951,
+      "n_trials": 17611,
+      "desert_score": 54442.2446276115,
       "status": "STABLE"
     },
     {
       "location": "Slovakia",
       "sdi": 0.813141722,
-      "n_trials": 10372,
-      "desert_score": 55507.308027580504,
+      "n_trials": 10434,
+      "desert_score": 55839.1102930751,
       "status": "STABLE"
     },
     {
       "location": "Ireland",
       "sdi": 0.906907098,
-      "n_trials": 5186,
-      "desert_score": 55707.79171143706,
+      "n_trials": 5266,
+      "desert_score": 56567.148313233236,
       "status": "STABLE"
     },
     {
       "location": "New Zealand non-Maori population",
       "sdi": 0.884875536,
-      "n_trials": 6529,
-      "desert_score": 56712.53326598548,
+      "n_trials": 6613,
+      "desert_score": 57442.17835625088,
       "status": "STABLE"
     },
     {
       "location": "Mexico",
       "sdi": 0.693436757,
-      "n_trials": 19142,
-      "desert_score": 62440.623365130356,
+      "n_trials": 19244,
+      "desert_score": 62773.344271161244,
       "status": "STABLE"
     },
     {
       "location": "Bulgaria",
       "sdi": 0.770862429,
-      "n_trials": 15448,
-      "desert_score": 67418.01410323146,
+      "n_trials": 15594,
+      "desert_score": 68055.18590923041,
       "status": "STABLE"
     },
     {
       "location": "India",
       "sdi": 0.606982048,
-      "n_trials": 27713,
-      "desert_score": 70513.31841693752,
+      "n_trials": 28005,
+      "desert_score": 71256.28702292553,
       "status": "STABLE"
     },
     {
       "location": "Romania",
       "sdi": 0.768756849,
-      "n_trials": 16428,
-      "desert_score": 71042.10404439518,
+      "n_trials": 16563,
+      "desert_score": 71625.9051185365,
       "status": "STABLE"
     },
     {
       "location": "Oman",
       "sdi": 0.781268794,
-      "n_trials": 16428,
-      "desert_score": 75105.88129107382,
+      "n_trials": 16563,
+      "desert_score": 75723.07717458338,
       "status": "STABLE"
     },
     {
       "location": "Ukraine",
       "sdi": 0.764530545,
-      "n_trials": 18483,
-      "desert_score": 78494.25732161553,
+      "n_trials": 18550,
+      "desert_score": 78778.79528842548,
       "status": "STABLE"
     },
     {
       "location": "Ukraine (without Crimea & Sevastopol)",
       "sdi": 0.768918379,
-      "n_trials": 18483,
-      "desert_score": 79984.72536247931,
+      "n_trials": 18550,
+      "desert_score": 80274.66620537743,
       "status": "STABLE"
     },
     {
       "location": "Mexico City",
       "sdi": 0.768181125,
-      "n_trials": 19142,
-      "desert_score": 82573.08638799447,
+      "n_trials": 19244,
+      "desert_score": 83013.08507212233,
       "status": "STABLE"
     },
     {
       "location": "Finland",
       "sdi": 0.89081503,
-      "n_trials": 10146,
-      "desert_score": 92924.87776209041,
+      "n_trials": 10205,
+      "desert_score": 93465.2451766344,
       "status": "STABLE"
     },
     {
       "location": "Greece",
       "sdi": 0.831148242,
-      "n_trials": 16152,
-      "desert_score": 95657.8728095577,
+      "n_trials": 16329,
+      "desert_score": 96706.12958811711,
       "status": "STABLE"
     },
     {
       "location": "Brazil Northeast",
       "sdi": 0.625220305,
-      "n_trials": 36910,
-      "desert_score": 98484.52432875679,
+      "n_trials": 37350,
+      "desert_score": 99658.54737683733,
       "status": "STABLE"
     },
     {
       "location": "Brazil North",
       "sdi": 0.64329609,
-      "n_trials": 36910,
-      "desert_score": 103475.17634346223,
+      "n_trials": 37350,
+      "desert_score": 104708.69239849132,
       "status": "STABLE"
     },
     {
       "location": "Argentina",
       "sdi": 0.764786183,
-      "n_trials": 24402,
-      "desert_score": 103743.90544253448,
+      "n_trials": 24640,
+      "desert_score": 104755.75076239856,
       "status": "STABLE"
     },
     {
       "location": "Brazil",
       "sdi": 0.683949753,
-      "n_trials": 36910,
-      "desert_score": 116785.22747150861,
+      "n_trials": 37350,
+      "desert_score": 118177.41116393516,
       "status": "STABLE"
     },
     {
       "location": "Austria",
       "sdi": 0.853959728,
-      "n_trials": 17451,
-      "desert_score": 119494.43635691497,
-      "status": "STABLE"
-    },
-    {
-      "location": "Brazil Central-West",
-      "sdi": 0.697106865,
-      "n_trials": 36910,
-      "desert_score": 121858.15960409331,
+      "n_trials": 17571,
+      "desert_score": 120316.12751288482,
       "status": "STABLE"
     },
     {
       "location": "Hungary",
       "sdi": 0.793609757,
-      "n_trials": 25272,
-      "desert_score": 122447.64878616494,
+      "n_trials": 25414,
+      "desert_score": 123135.66580609353,
+      "status": "STABLE"
+    },
+    {
+      "location": "Brazil Central-West",
+      "sdi": 0.697106865,
+      "n_trials": 37350,
+      "desert_score": 123310.81715559156,
       "status": "STABLE"
     },
     {
       "location": "New Mexico",
       "sdi": 0.848155055,
-      "n_trials": 19142,
-      "desert_score": 126062.80694687412,
+      "n_trials": 19244,
+      "desert_score": 126734.54481692851,
       "status": "STABLE"
     },
     {
       "location": "Brazil South",
       "sdi": 0.710861349,
-      "n_trials": 36910,
-      "desert_score": 127655.01900067485,
+      "n_trials": 37350,
+      "desert_score": 129176.78026754824,
       "status": "STABLE"
     },
     {
       "location": "Brazil Southeast",
       "sdi": 0.720419229,
-      "n_trials": 36910,
-      "desert_score": 132019.09364073572,
-      "status": "STABLE"
-    },
-    {
-      "location": "T\u00fcrkiye",
-      "sdi": 0.730952258,
-      "n_trials": 37451,
-      "desert_score": 139198.34341549745,
+      "n_trials": 37350,
+      "desert_score": 133592.87855544512,
       "status": "STABLE"
     },
     {
       "location": "Norway",
       "sdi": 0.916927776,
-      "n_trials": 11611,
-      "desert_score": 139769.94267088603,
+      "n_trials": 11707,
+      "desert_score": 140925.56359039384,
       "status": "STABLE"
     },
     {
-      "location": "Czechia",
-      "sdi": 0.83103434,
-      "n_trials": 27097,
-      "desert_score": 160369.86440891604,
+      "location": "T\u00fcrkiye",
+      "sdi": 0.730952258,
+      "n_trials": 38663,
+      "desert_score": 143703.12011624197,
       "status": "STABLE"
     },
     {
       "location": "Israel",
       "sdi": 0.840929726,
-      "n_trials": 25568,
-      "desert_score": 160733.99096506622,
+      "n_trials": 25715,
+      "desert_score": 161658.1108286404,
+      "status": "STABLE"
+    },
+    {
+      "location": "Czechia",
+      "sdi": 0.83103434,
+      "n_trials": 27319,
+      "desert_score": 161683.74084906734,
       "status": "STABLE"
     },
     {
       "location": "Indiana",
       "sdi": 0.855310901,
-      "n_trials": 27713,
-      "desert_score": 191534.81618436583,
+      "n_trials": 28005,
+      "desert_score": 193552.9364285052,
       "status": "STABLE"
     },
     {
       "location": "Taiwan",
       "sdi": 0.881537661,
-      "n_trials": 27714,
-      "desert_score": 233947.7694814486,
+      "n_trials": 27986,
+      "desert_score": 236243.8578591261,
       "status": "STABLE"
     },
     {
       "location": "Russian Federation",
       "sdi": 0.822523587,
-      "n_trials": 44056,
-      "desert_score": 248235.80345392943,
+      "n_trials": 44268,
+      "desert_score": 249430.32838429607,
       "status": "STABLE"
     },
     {
       "location": "Sweden",
       "sdi": 0.910927944,
-      "n_trials": 22123,
-      "desert_score": 248371.94703536207,
+      "n_trials": 22286,
+      "desert_score": 250201.92612349495,
       "status": "STABLE"
     },
     {
       "location": "Denmark",
       "sdi": 0.915990253,
-      "n_trials": 23465,
-      "desert_score": 279312.8274992749,
+      "n_trials": 23674,
+      "desert_score": 281800.6340599972,
       "status": "STABLE"
     },
     {
       "location": "Australia",
       "sdi": 0.852886303,
-      "n_trials": 48354,
-      "desert_score": 328684.55455328233,
+      "n_trials": 48836,
+      "desert_score": 331960.93200488266,
       "status": "STABLE"
     },
     {
       "location": "Belgium",
       "sdi": 0.876976215,
-      "n_trials": 42247,
-      "desert_score": 343405.13881652633,
-      "status": "STABLE"
-    },
-    {
-      "location": "Poland",
-      "sdi": 0.847008286,
-      "n_trials": 56309,
-      "desert_score": 368052.6120727998,
+      "n_trials": 42565,
+      "desert_score": 345990.0048222464,
       "status": "STABLE"
     },
     {
       "location": "Switzerland",
       "sdi": 0.946050659,
-      "n_trials": 19880,
-      "desert_score": 368493.8424576975,
+      "n_trials": 20026,
+      "desert_score": 371200.08496266854,
+      "status": "STABLE"
+    },
+    {
+      "location": "Poland",
+      "sdi": 0.847008286,
+      "n_trials": 56898,
+      "desert_score": 371902.49377041264,
       "status": "STABLE"
     },
     {
       "location": "Netherlands",
       "sdi": 0.908399773,
-      "n_trials": 39831,
-      "desert_score": 434835.1664730751,
+      "n_trials": 40069,
+      "desert_score": 437433.413306461,
       "status": "STABLE"
     },
     {
       "location": "Italy Islands",
       "sdi": 0.799196873,
-      "n_trials": 103455,
-      "desert_score": 515206.1200146518,
+      "n_trials": 104826,
+      "desert_score": 522033.7029303165,
       "status": "STABLE"
     },
     {
       "location": "Italy South",
       "sdi": 0.807328389,
-      "n_trials": 103455,
-      "desert_score": 536949.8879952015,
+      "n_trials": 104826,
+      "desert_score": 544065.6223380696,
       "status": "STABLE"
     },
     {
       "location": "China",
       "sdi": 0.727553274,
-      "n_trials": 155439,
-      "desert_score": 570529.8875309187,
+      "n_trials": 158984,
+      "desert_score": 583541.6056408982,
       "status": "STABLE"
     },
     {
       "location": "China (without Hong Kong and Macao)",
       "sdi": 0.726434248,
-      "n_trials": 161760,
-      "desert_score": 591302.0864573347,
+      "n_trials": 165409,
+      "desert_score": 604640.744428915,
       "status": "STABLE"
     },
     {
       "location": "Spain",
       "sdi": 0.811819795,
-      "n_trials": 113228,
-      "desert_score": 601699.8437207039,
+      "n_trials": 114582,
+      "desert_score": 608895.074479861,
       "status": "STABLE"
     },
     {
       "location": "Italy",
       "sdi": 0.834438992,
-      "n_trials": 103455,
-      "desert_score": 624875.3929881394,
+      "n_trials": 104826,
+      "desert_score": 633156.3283106153,
       "status": "STABLE"
     },
     {
       "location": "Italy Center",
       "sdi": 0.84600612,
-      "n_trials": 103455,
-      "desert_score": 671812.411849216,
+      "n_trials": 104826,
+      "desert_score": 680715.3630516254,
       "status": "STABLE"
     },
     {
       "location": "Italy North-East",
       "sdi": 0.84713576,
-      "n_trials": 103455,
-      "desert_score": 676776.9880798956,
+      "n_trials": 104826,
+      "desert_score": 685745.7305346589,
       "status": "STABLE"
     },
     {
       "location": "Italy North-West",
       "sdi": 0.850180657,
-      "n_trials": 103455,
-      "desert_score": 690531.6620628007,
+      "n_trials": 104826,
+      "desert_score": 699682.6833637345,
       "status": "STABLE"
     },
     {
       "location": "United Kingdom",
       "sdi": 0.880444683,
-      "n_trials": 96950,
-      "desert_score": 810921.6917463222,
+      "n_trials": 97731,
+      "desert_score": 817454.2326566252,
       "status": "STABLE"
     },
     {
       "location": "Japan",
       "sdi": 0.875884075,
-      "n_trials": 107769,
-      "desert_score": 868293.089006674,
+      "n_trials": 108447,
+      "desert_score": 873755.7240348039,
       "status": "STABLE"
     },
     {
       "location": "Canada",
       "sdi": 0.887304675,
-      "n_trials": 102897,
-      "desert_score": 913054.7332703865,
+      "n_trials": 103480,
+      "desert_score": 918227.9735932009,
       "status": "STABLE"
     },
     {
       "location": "Hong Kong Special Administrative Region of China",
       "sdi": 0.849388579,
-      "n_trials": 161760,
-      "desert_score": 1074022.1346998496,
+      "n_trials": 165409,
+      "desert_score": 1098250.0449960893,
       "status": "STABLE"
     },
     {
       "location": "Macao Special Administrative Region of China",
       "sdi": 0.868782349,
-      "n_trials": 155439,
-      "desert_score": 1184589.105939269,
+      "n_trials": 158984,
+      "desert_score": 1211605.2883680977,
       "status": "STABLE"
     },
     {
       "location": "Germany",
       "sdi": 0.878636199,
-      "n_trials": 167002,
-      "desert_score": 1376044.5741345524,
+      "n_trials": 167977,
+      "desert_score": 1384078.2710949553,
       "status": "STABLE"
     },
     {
       "location": "France",
       "sdi": 0.86109871,
-      "n_trials": 195281,
-      "desert_score": 1405897.669196667,
+      "n_trials": 197032,
+      "desert_score": 1418503.7436164177,
       "status": "STABLE"
     },
     {
       "location": "United States Virgin Islands",
       "sdi": 0.816423321,
-      "n_trials": 1455666,
-      "desert_score": 7929471.2549356725,
+      "n_trials": 1465725,
+      "desert_score": 7984265.796646063,
       "status": "STABLE"
     },
     {
       "location": "United States of America",
       "sdi": 0.876475276,
-      "n_trials": 1455659,
-      "desert_score": 11784353.380312465,
+      "n_trials": 1465718,
+      "desert_score": 11865786.470515983,
       "status": "STABLE"
     }
   ]
