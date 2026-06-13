@@ -137,7 +137,7 @@ def default_output_path():
 
 
 def run_collider(aact_path, sdi_path):
-    print("--- GSP Collider: Ingesting AACT vs IHME ---")
+    print("--- Evidence Collider: Ingesting AACT vs IHME ---")
 
     trial_counts = {}
     with Path(aact_path).open(newline="", encoding="utf-8") as handle:
@@ -175,7 +175,7 @@ def run_collider(aact_path, sdi_path):
 def build_output(results, timestamp=None):
     return {
         "audit": {
-            "methodology": "Evidence Collider v1 (GSP-Hardened)",
+            "methodology": "Evidence Collider v1",
             "timestamp": timestamp or datetime.datetime.now().isoformat(),
             "n_locations": len(results),
             "sources": ["AACT-facilities", "IHME-SDI-2023"],
