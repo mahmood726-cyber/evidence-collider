@@ -3,4 +3,4 @@
 # these for both lint and test jobs.
 
 pytest>=8.0
-selenium>=4.0
+selenium>=4.45.0
