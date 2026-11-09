@@ -2,5 +2,5 @@
 # Pin minimum versions; the CI workflow (.github/workflows/ci.yml) installs
 # these for both lint and test jobs.
 
-pytest>=9.1.1
+pytest>=9.2.0
 selenium>=4.47.0
